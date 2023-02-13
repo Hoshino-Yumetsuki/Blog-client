@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "8dcdadd0ed5f8e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "53082a702e6bd37c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022年8月班级游学活动感想.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "741cc7d24db8c69a",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a8770223f14986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409f70a1f10d2468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af24ff91f6b1729e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "32db2dcc87d992e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0f11923e1ecf43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb87d581af6a82ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022年8月班级游学活动感想.md"
+              }
+            }
+          },
+          {
+            "id": "a40d21831214ca7c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "53082a702e6bd37c",
+  "lastOpenFiles": [
+    "无悔的青春.md",
+    "我那些日子里在Hexo中踩的坑.md",
+    "《关于我的博客md文件渲染错误而我删库跑路这档事》.md",
+    "校友论坛感想.md",
+    "2022年8月班级游学活动感想.md",
+    "浅谈ACE虚拟歌姬.md",
+    "与系统的关系感想 第二天 2022-07-22.md",
+    "与系统的关系感想 第一天 2022-07-21.md",
+    "一些核酸乱象.md",
+    "添加公益404页面之后的一点感想.md"
+  ]
+}

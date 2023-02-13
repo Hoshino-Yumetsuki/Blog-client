@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+<head>
+  {{ partial('_partials/head/head.njk', {}, {cache: theme.cache.enable}) }}
+  {%- include '_partials/head/head-unique.njk' -%}
+  <title>{% block title %}{% endblock %}</title>
+  {{ partial('_third-party/analytics/index.njk', {}, {cache: theme.cache.enable}) }}
+  {{- next_inject('head') }}
+  <noscript>
+    <link rel="stylesheet" href="{{ url_for(theme.css) }}/noscript.css">
+  </noscript>
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "87c9b7f9ab404af1a750443261226d3c"}'></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3997177227996845"
+       crossorigin="anonymous"></script>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage"{% if theme.motion.enable %} class="use-motion"{% endif %}>
+    <div class="page" id="body-wrap">
+        <header class="full_page" id="page-header" style="background-image: url('/img/background.jpg')">
+            <div id="site-info">
+                <h1 id="site-title"><font color="white">Nexterfly</font></h1>
+                <div id="site-subtitle"><font color="white"><span id="subtitle">希望你别像风，在我这里面掀起万翻般波澜，却又跟云去了远方。</span></font></div>
+            </div>
+            <div id="scroll-down"><i class="fas fa-angle-down scroll-down-effects"></i></div>
+        </header>
+    </div>
+    <div>
+        <script src="/js/utils-butterfly.js"></script>
+        <script src="/js/main.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script>
+        <div class="js-pjax">
+            <script>window.typedJSFn = {
+                    init: (str) => {
+                        window.typed = new Typed('#subtitle', Object.assign({
+                            strings: str,
+                            startDelay: 300,
+                            typeSpeed: 150,
+                            loop: true,
+                            backSpeed: 50,
+                        }, null))
+                    },
+                    run: (subtitleType) => {
+                        if (false) {
+                            if (typeof Typed === 'function') {
+                                subtitleType()
+                            } else {
+                                getScript('https://cdn.jsdelivr.net/npm/typed.js/lib/typed.min.js').then(subtitleType)
+                            }
+                        } else {
+                            subtitleType()
+                        }
+                    }
+                }
+            </script>
+            <script>function subtitleType() {
+                    fetch('https://v1.hitokoto.cn')
+                        .then(response => response.json())
+                        .then(data => {
+                            if (false) {
+                                const from = '出自 ' + data.from
+                                const sub = []
+                                sub.unshift(data.hitokoto, from)
+                                typedJSFn.init(sub)
+                            } else {
+                                document.getElementById('subtitle').innerHTML = data.hitokoto
+                            }
+                        })
+                }
+                typedJSFn.run(subtitleType)
+            </script>
+        </div>
+        <script async="" data-pjax="" src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    </div>
+    <div id="phraseJoinewrskdfdswerhnyikyofd" data-v-app="">
+        <!---->
+        <!---->
+        <!---->
+    </div>
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+        {%- include '_partials/header/index.njk' -%}
+      </header>
+      {%- if theme.sidebar.display !== 'remove' %}
+        {% block sidebar %}{% endblock %}
+      {%- endif %}
+    </div>
+
+    <div class="main-inner {% block class %}{% endblock %}">
+      {%- include '_partials/header/sub-menu.njk' -%}
+      {% block content %}{% endblock %}
+      {%- include '_partials/comments.njk' -%}
+    </div>
+  </main>
+
+<!--
+  <footer class="footer">
+    <div class="footer-inner">
+      {%- include '_partials/languages.njk' -%}
+      {{ partial('_partials/footer.njk', {}, {cache: theme.cache.enable}) }}
+    </div>
+  </footer>
+-->
+
+  {{ partial('_partials/widgets.njk', {}, {cache: theme.cache.enable}) }}
+
+  {{ partial('_scripts/index.njk', {}, {cache: theme.cache.enable}) }}
+  {{ partial('_third-party/index.njk', {}, {cache: theme.cache.enable}) }}
+  {{ partial('_third-party/statistics/index.njk', {}, {cache: theme.cache.enable}) }}
+
+  {%- include '_third-party/math/index.njk' -%}
+  {%- include '_third-party/quicklink.njk' -%}
+
+  {{- next_inject('bodyEnd') }}
+</body>
+</html>
