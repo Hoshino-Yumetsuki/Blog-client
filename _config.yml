@@ -145,3 +145,24 @@ hexo_seo_autopush:
     enable: true
     date: created
     count: 10
+
+# Markdown config
+markdown_it_plus:
+  render:
+    html: true						
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes:
+  plugins:
+  - markdown-it-sub
+  - markdown-it-sup
+  - markdown-it-footnote
+  anchors:	
+    level: 2
+    collisionSuffix: 'v'
+    permalink: true
+    permalinkClass: header-anchor
+    permalinkSide: 'left'
+    permalinkSymbol: ¶
