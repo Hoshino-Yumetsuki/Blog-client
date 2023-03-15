@@ -17,5 +17,6 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./附件"
 }

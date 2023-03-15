@@ -6,7 +6,7 @@
       {
         "id": "062db77d1e73e3a8",
         "type": "split",
-        "dimension": 33.333333333333336,
+        "dimension": 24.324324324324326,
         "children": [
           {
             "id": "14bf3744eb85fdef",
@@ -18,10 +18,9 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "谷歌娘金句收集.md"
+                    "file": "奇闻.md"
                   }
-                },
-                "group": "223128eab8f0ce35"
+                }
               }
             ]
           },
@@ -45,7 +44,7 @@
       {
         "id": "8651b3580fd50498",
         "type": "tabs",
-        "dimension": 66.66666666666667,
+        "dimension": 75.67567567567568,
         "children": [
           {
             "id": "13ddd6c331c083fc",
@@ -53,13 +52,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谷歌娘金句收集.md",
+                "file": "奇闻.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            },
-            "group": "223128eab8f0ce35"
+            }
           }
         ]
       }
@@ -119,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 208
   },
   "right": {
     "id": "32db2dcc87d992e8",
@@ -163,19 +161,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "《魔女之吻乃百合之味》用小说，带你进入幻想的世界.md",
     "谷歌娘金句收集.md",
+    "奇闻.md",
+    "[6f1es61awd.jpg.md",
+    "墙.md",
+    "附件/RO4J{$VR96X{%$KANAVVX[I.jpg",
+    "附件",
+    "RO4J{$VR96X{%$KANAVVX[I.jpg",
+    "6%S(7D$1R1)$PGDC]G%7VGM.png",
     "hello-world.md",
+    "《魔女之吻乃百合之味》用小说，带你进入幻想的世界.md",
     "在国内使用体验比答辩还答辩的Kindle海外版app.md",
     "魔女之吻乃百合之味：从幻想中映射现实.md",
     "Vanilla-OS——新世代Ubuntu发行版.md",

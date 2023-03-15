@@ -92,7 +92,7 @@
           {
             "id": "062db77d1e73e3a8",
             "type": "split",
-            "dimension": 33.333333333333336,
+            "dimension": 24.324324324324326,
             "children": [
               {
                 "id": "14bf3744eb85fdef",
@@ -104,10 +104,9 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "而事实是.md"
+                        "file": "谷歌娘金句收集.md"
                       }
-                    },
-                    "group": "223128eab8f0ce35"
+                    }
                   }
                 ]
               },
@@ -131,7 +130,7 @@
           {
             "id": "8651b3580fd50498",
             "type": "tabs",
-            "dimension": 66.66666666666667,
+            "dimension": 75.67567567567568,
             "children": [
               {
                 "id": "13ddd6c331c083fc",
@@ -139,13 +138,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "而事实是.md",
+                    "file": "谷歌娘金句收集.md",
                     "mode": "preview",
                     "backlinks": false,
                     "source": false
                   }
-                },
-                "group": "223128eab8f0ce35"
+                }
               }
             ]
           }
@@ -205,7 +203,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 267
+        "width": 208
       },
       "right": {
         "id": "32db2dcc87d992e8",
@@ -247,8 +245,15 @@
         "direction": "horizontal",
         "width": 300
       },
-      "ribbon": {
-        "mostRecentAction": ""
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false
+        }
       },
       "active": "13ddd6c331c083fc"
     }
