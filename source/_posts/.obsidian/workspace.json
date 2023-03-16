@@ -6,7 +6,7 @@
       {
         "id": "062db77d1e73e3a8",
         "type": "split",
-        "dimension": 24.324324324324326,
+        "dimension": 24.288617886178862,
         "children": [
           {
             "id": "14bf3744eb85fdef",
@@ -44,7 +44,7 @@
       {
         "id": "8651b3580fd50498",
         "type": "tabs",
-        "dimension": 75.67567567567568,
+        "dimension": 75.71138211382113,
         "children": [
           {
             "id": "13ddd6c331c083fc",
@@ -53,7 +53,7 @@
               "type": "markdown",
               "state": {
                 "file": "谷歌娘金句收集.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -176,14 +176,15 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "hello-world.md",
-    "墙.md",
     "奇闻.md",
+    "墙.md",
+    "hello-world.md",
     "谷歌娘金句收集.md",
     "谈谈Hexo.md",
     "谈谈青春舞曲.md",

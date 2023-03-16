@@ -1,10 +1,12 @@
 [
   "obsidian-pangu",
   "obsidian-code-copy",
-  "markdown-prettifier",
   "obsidian-outliner",
   "obsidian-pandoc",
   "recent-files-obsidian",
   "calendar",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "obsidian-dynamic-background",
+  "table-editor-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]
