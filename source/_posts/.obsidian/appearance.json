@@ -1,11 +1,12 @@
 {
   "theme": "obsidian",
   "monospaceFontFamily": "Microsoft YaHei",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "translucency": false,
   "textFontFamily": "Microsoft YaHei",
   "interfaceFontFamily": "Microsoft YaHei",
   "baseFontSize": 16,
   "accentColor": "",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }

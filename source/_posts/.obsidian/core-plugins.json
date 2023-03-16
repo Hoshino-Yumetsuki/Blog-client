@@ -4,11 +4,11 @@
   "switcher",
   "graph",
   "canvas",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
   "editor-status",
-  "markdown-importer",
   "outline",
   "word-count",
   "workspaces"

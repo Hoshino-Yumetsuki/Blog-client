@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "奇闻.md"
+                    "file": "谷歌娘金句收集.md"
                   }
                 }
               }
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇闻.md",
-                "mode": "source",
+                "file": "谷歌娘金句收集.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -137,6 +137,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "dd394d106eaee0c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
@@ -165,21 +176,24 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false
     }
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "谷歌娘金句收集.md",
-    "奇闻.md",
-    "[6f1es61awd.jpg.md",
+    "hello-world.md",
     "墙.md",
+    "奇闻.md",
+    "谷歌娘金句收集.md",
+    "谈谈Hexo.md",
+    "谈谈青春舞曲.md",
+    "谈谈试卷和新式集体主义.md",
+    "2023-03-07.md",
+    "[6f1es61awd.jpg.md",
     "附件/RO4J{$VR96X{%$KANAVVX[I.jpg",
     "附件",
     "RO4J{$VR96X{%$KANAVVX[I.jpg",
     "6%S(7D$1R1)$PGDC]G%7VGM.png",
-    "hello-world.md",
     "《魔女之吻乃百合之味》用小说，带你进入幻想的世界.md",
     "在国内使用体验比答辩还答辩的Kindle海外版app.md",
     "魔女之吻乃百合之味：从幻想中映射现实.md",
