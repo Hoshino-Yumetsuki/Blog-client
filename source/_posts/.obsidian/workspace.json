@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "谷歌娘金句收集.md"
+                    "file": "hello-world.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谷歌娘金句收集.md",
+                "file": "hello-world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,12 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13ddd6c331c083fc",
+  "active": "e9133b7b03bfbcc6",
   "lastOpenFiles": [
-    "奇闻.md",
     "墙.md",
-    "hello-world.md",
+    "奇闻.md",
     "谷歌娘金句收集.md",
+    "hello-world.md",
     "谈谈Hexo.md",
     "谈谈青春舞曲.md",
     "谈谈试卷和新式集体主义.md",
