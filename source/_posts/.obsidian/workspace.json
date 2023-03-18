@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "hello-world.md"
+                    "file": "墙.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
+                "file": "墙.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,11 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "墙.md",
     "奇闻.md",
     "谷歌娘金句收集.md",
+    "墙.md",
     "hello-world.md",
     "谈谈Hexo.md",
     "谈谈青春舞曲.md",
