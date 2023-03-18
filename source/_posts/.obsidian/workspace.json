@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "墙.md"
+                    "file": "hello-world.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "墙.md",
+                "file": "hello-world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -182,9 +182,9 @@
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "墙.md",
     "奇闻.md",
     "谷歌娘金句收集.md",
-    "墙.md",
     "hello-world.md",
     "谈谈Hexo.md",
     "谈谈青春舞曲.md",
