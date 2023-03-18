@@ -1,105 +1,185 @@
-# Nextfly——Butterfly和Next的完美融合
+<div align="right">
+  Language:
+  🇺🇸
+  <a title="Chinese" href="docs/zh-CN/README.md">🇨🇳</a>
+  <a title="Russian" href="docs/ru/README.md">🇷🇺</a>
+</div>
 
-## 使用该主题需要一定的基础和动手能力，使用前请详细查看readme和Next文档
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/next-theme/theme-next-docs/v8.13.0/source/images/next-schemes-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/next-theme/theme-next-docs/v8.13.0/source/images/next-schemes.png">
+  <img alt="NexT preview" src="https://raw.githubusercontent.com/next-theme/theme-next-docs/v8.13.0/source/images/next-schemes.png">
+</picture>
 
-## 关于主题
+<a title="NexT website" href="https://theme-next.js.org"><img align="right" alt="NexT logo" width="100" height="100" src="https://raw.githubusercontent.com/next-theme/hexo-theme-next/master/source/images/logo.svg"></a>
 
-该主题基于[Next8](https://github.com/next-theme/hexo-theme-next)和[Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+# NexT
 
-从根本上来说Nexterfly是Next主题和Butterfly主题缝合的产物，所以这玩意儿本质上就是个缝合怪。
+> «NexT» is a high quality elegant [Hexo](https://hexo.io) theme. It is crafted from scratch with love.
 
-我制作这个主题是因为不习惯Next没有一个全屏着陆页，所以才缝合这两个主题，主题为自用，不喜勿喷。
+[![NPM version](https://img.shields.io/npm/v/hexo-theme-next?color=red&logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-next)
+[![Required Hexo version](https://img.shields.io/badge/hexo-%3E=5.3.0-blue?style=flat-square&logo=hexo)](https://hexo.io)
+[![License](https://img.shields.io/badge/license-%20AGPL-orange?style=flat-square&logo=gnu)](https://github.com/next-theme/hexo-theme-next/blob/master/LICENSE.md)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/next-theme/hexo-theme-next/linter.yml?branch=master&label=test&logo=github&style=flat-square)](https://github.com/next-theme/hexo-theme-next/actions?query=workflow%3ALinter)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/next-theme/hexo-theme-next/tester.yml?branch=master&logo=github&style=flat-square)](https://github.com/next-theme/hexo-theme-next/actions?query=workflow%3ATester)
+[![Coverage Status](https://img.shields.io/coveralls/github/next-theme/hexo-theme-next?logo=coveralls&style=flat-square)](https://coveralls.io/github/next-theme/hexo-theme-next)
 
-## 特点
+## Live Preview
 
-- 和Butterfly一样的全屏着陆页
+<p align="center">
+  💟 <a href="https://theme-next.js.org/muse/">Muse</a> | 🔯 <a href="https://theme-next.js.org/mist/">Mist</a> | ♓️ <a href="https://theme-next.js.org/pisces/">Pisces</a> | ♊️ <a href="https://theme-next.js.org">Gemini</a>
+<br>
+<br>
+  More «NexT» examples <a href="https://github.com/next-theme/awesome-next#live-preview">here</a>.
+</p>
 
-- Butterfly的Subtitle一言和Title
+## Installation
 
-- Next的简约
+If you're using Hexo 5.0 or later, the simplest way to install is through npm:
 
-- 更强的个性化
-
-- <del>更加耐造</del>
-
-### 一些没有解决的问题
-
-- 因为next和butterfly的渲染架构不同，某些功能并不能实现，比如Subtitle的打字特效
-
-- 因为本人的技术限制，Butterfly部分（Subtitle，Title，index img）需要通过更改swig文件来配置
-
-- 如果需要更改整个Butterfly的部分需要重新从Butterfly主题中生成并植入到_layout.swig中
-  
-## 使用
-
-直接贴到themes文件夹中，theme config的配置和Next一样。该仓库已经预配置了部分js框架
-
-### 更改Butterfly部分的壁纸
-
-进入到
-
-```bash
-[blog]/theme/nexterfly/layout/_layout-butterfly.swig
+```sh
+$ cd hexo-site
+$ npm install hexo-theme-next
 ```
 
-中更改
+Or you can clone the entire repository:
 
-
-```bash
-style="background-image: url('/img/background.jpg')">
+```sh
+$ cd hexo-site
+$ git clone https://github.com/next-theme/hexo-theme-next themes/next
 ```
 
-的url部分
+See [detailed installation instructions][docs-installation-url] if you want any other variant.
 
-### 更改Next部分的壁纸
+After the installation, open Hexo config file and set `theme` variable to `next`.
 
-请到
-
-```bash
-[blog]/nexterfly/source/css/main.styl
+```yml
+theme: next
 ```
 
-中更改，有注释
+## Configuration
 
-### 更改Butterfly部分的Title和Subtitle
+It is not recommended to directly modify any files in the NexT theme. Because this may cause errors (e.g. merge conflicts), and the modified files may be discarded when upgrading the theme.
 
-找到
+At present, NexT encourages users to use the [Alternate Theme Config][docs-configuration-url] to configure NexT. And it's easy to customize the layout or style of NexT using [Custom Files][docs-custom-files-url].
 
-```bash
-<div id="site-info">
-                <h1 id="site-title"><font color="white">Nexterfly</font></h1>
-                <div id="site-subtitle"><font color="white"><span id="subtitle">希望你别像风，在我这里面掀起万翻般波澜，却又跟云去了远方。</span></font></div>
-            </div>
+## Plugins
+
+Plugins extend and expand the functionality of NexT. There are two types of plugins: core plugins and third-party plugins. The core plugins are required by the basic functions of NexT. Third-party plugins provide a large number of optional features.
+
+Configuring these plugins is very easy. For example, if you want to enable `pjax` on your site, just set `pjax` to `true` in NexT config file:
+
+```yml
+# Easily enable fast Ajax navigation on your website.
+# For more information: https://github.com/next-theme/pjax
+pjax: true
 ```
 
-更改其中相应部分
+### Configure CDN
 
-**当已经配置了一言时，请不要更改Subtitle。该仓库已默认配置一言，如需自定义请到_layout-butterfly.swig中更改html代码或从Butterfly重新生成页面。（不建议更改Subtitle部分，因为非常麻烦）**
+Third-party plugins are loaded from [CDNJS](https://cdnjs.com) CDN by default. We also provide other optional CDNs, including the famous [UNPKG](https://unpkg.com) and [jsDelivr](https://www.jsdelivr.com).
 
-## 插件
+For example, if you want to use `unpkg` instead of `cdnjs` as the default CDN provider, you need to edit the following settings in NexT config file:
 
-因为该主题的底层仍然为Next主题，所以继承了Next支持多插件的特点。插件的安装和Next一样。
-
-## Next样式
-
-该仓库默认配置Mist样式，其他样式依然可以使用。圆角仅适配了Mist样式，如需配置请修改
-
-```bash
-[blog]/nexterfly/source/css/main.styl
+```yml
+vendors:
+  # ...
+  # Some contents...
+  # ...
+  plugins: unpkg
 ```
 
-## 更多
+## Update
 
-更多请见Next主题的文档
+A new version of NexT will be released every month. Please read the [release notes][docs-release-url] before updating the theme. You can update NexT by the following command.
 
-## 更新
+Install the latest version through npm:
 
-本项目会与Next项目保持同步更新（大概......如果没出啥事的话......
+```sh
+$ cd hexo-site
+$ npm install hexo-theme-next@latest
+```
 
-## 鸣谢
+Or update to the latest master branch:
 
-感谢Akilarの糖果屋的各位群友们给予的帮助和支持
+```sh
+$ cd themes/next
+$ git pull
+```
 
-特别感谢Akilarの糖果屋的 空巷一人 帮我解决网页排版问题
+**If you want to update from v5.x / v7.x to the latest version, read [this][docs-upgrade-url].**
 
-感谢Next和Butterfly给我的灵感
+## Feedback
+
+* Visit the [Awesome NexT][awesome-next-url] list to share plugins and tutorials with other users.
+* Join our [GitHub discussions][discussions-url] / [Gitter][gitter-url] chats.
+* [Add or improve translation][i18n-url] in few seconds.
+* Report a bug in [GitHub Issues][issues-bug-url].
+* Request a new feature on [GitHub][issues-feat-url].
+* Vote for [popular feature requests][feat-req-vote-url].
+
+## Contributing
+
+We welcome you to join the development of NexT. Please see [contributing document][contributing-document-url]. 🤗
+
+Also, we welcome Issue or PR to our [official-plugins][official-plugins-url].
+
+## Contributors
+
+[![Contributors][contributors-image]][contributors-url]
+
+## Thanks
+
+«NexT» send special thanks to these great services that sponsor our core infrastructure:
+
+<a href="https://github.com"><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></a>
+
+> GitHub allows us to host the Git repository and run the test suite.
+
+<a href="https://www.netlify.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://www.netlify.com/v3/img/components/full-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" height="40" srcset="https://www.netlify.com/v3/img/components/full-logo-light.svg">
+    <img alt="Netlify Logo" height="40" src="https://www.netlify.com/v3/img/components/full-logo-light.svg">
+  </picture>
+</a>
+
+> Netlify allows us to distribute the documentation.
+
+<a href="https://crowdin.com"><img height="40" src="https://support.crowdin.com/assets/logos/crowdin-logo-small-black.svg"></a>
+
+> Crowdin allows us to translate conveniently the documentation.
+
+<a href="https://cdnjs.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" height="40" srcset="https://raw.githubusercontent.com/cdnjs/brand/master/logo/source/light-brackets.svg">
+    <source media="(prefers-color-scheme: light)" height="40" srcset="https://raw.githubusercontent.com/cdnjs/brand/master/logo/source/dark-brackets.svg">
+    <img alt="CDNJS Logo" height="40" src="https://raw.githubusercontent.com/cdnjs/brand/master/logo/source/dark-brackets.svg">
+  </picture>
+</a>
+
+> Thanks CDNJS for providing public CDN service.
+
+## License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnext-theme%2Fhexo-theme-next.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnext-theme%2Fhexo-theme-next?ref=badge_large)
+
+[docs-installation-url]: https://theme-next.js.org/docs/getting-started/installation.html
+[docs-configuration-url]: https://theme-next.js.org/docs/getting-started/configuration.html
+[docs-custom-files-url]: https://theme-next.js.org/docs/advanced-settings/custom-files.html
+[docs-release-url]: https://github.com/next-theme/hexo-theme-next/releases
+[docs-upgrade-url]: https://theme-next.js.org/docs/getting-started/upgrade.html
+
+[awesome-next-url]: https://github.com/next-theme/awesome-next
+[discussions-url]: https://github.com/next-theme/hexo-theme-next/discussions
+[gitter-url]: https://gitter.im/hexo-next
+[i18n-url]: https://crowdin.com/project/hexo-theme-next
+
+[issues-bug-url]: https://github.com/next-theme/hexo-theme-next/issues/new?assignees=&labels=Bug&template=bug-report.md
+[issues-feat-url]: https://github.com/next-theme/hexo-theme-next/issues/new?assignees=&labels=Feature+Request&template=feature-request.md
+[feat-req-vote-url]: https://github.com/next-theme/hexo-theme-next/issues?q=is%3Aopen+is%3Aissue+label%3A%22Feature+Request%22
+
+[contributing-document-url]: https://github.com/next-theme/hexo-theme-next/blob/master/.github/CONTRIBUTING.md
+[official-plugins-url]: https://github.com/next-theme
+[contributors-image]: https://raw.githubusercontent.com/next-theme/contributors/master/contributors.svg
+[contributors-url]: https://github.com/next-theme/hexo-theme-next/blob/master/docs/AUTHORS.md
