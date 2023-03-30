@@ -918,3 +918,6 @@ vendors:
 css: css
 js: js
 images: images
+
+# Nexterfly
+inedx_wallpaper: /img/background.jpg
