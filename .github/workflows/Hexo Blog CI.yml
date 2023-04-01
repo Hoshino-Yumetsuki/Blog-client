@@ -6,6 +6,10 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: 0 4 * * *
+  watch:
+    types: [started]
 
 jobs:
   build:
