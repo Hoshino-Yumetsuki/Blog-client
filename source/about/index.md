@@ -21,7 +21,7 @@ type: "about"
 
 <del>[和别人合作的云黄油项目](https://amemei.github.io)<del/>
 
-[Nexterfly——Butterfly与Next的完美结合](https://github.com/SuSWhW/hexo-theme-nexterfly)
+[Nexterfly——Butterfly与Next并不是很完美的结合](https://github.com/SuSWhW/hexo-theme-nexterfly)
 
 ## 关于小站
 

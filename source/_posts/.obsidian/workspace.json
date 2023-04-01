@@ -17,7 +17,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {}
+                  "state": {
+                    "file": "Next魔改记录.md"
+                  }
                 }
               }
             ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "奇闻.md",
+                "file": "Next魔改记录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -179,11 +181,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "409f70a1f10d2468",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "墙.md",
     "奇闻.md",
     "Drawing 2023-03-26 20.28.09.excalidraw.md",
-    "墙.md",
     "Excalidraw/Drawing 2023-03-26 20.26.15.excalidraw.md",
     "谷歌娘金句收集.md",
     "Excalidraw",
