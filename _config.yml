@@ -191,6 +191,51 @@ githubcalendar:
   calendar_js: https://cdn.jsdelivr.net/gh/Zfour/hexo-github-calendar@1.21/hexo_githubcalendar.js
   plus_style: ""
 
-#clena css
+# Clean css
 clean_css:
-  exclude: 
+  exclude:
+
+# Bangumi
+bangumi: # 追番设置
+  enable: true
+  source: bili
+  bgmInfoSource: 'bgmApi'
+  path:
+  vmid: 487189150
+  title: '追番列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  lazyload: true
+  srcValue: '__image__'
+  lazyloadAttrName: 'data-src=__image__'
+  loading:
+  showMyComment: false
+  pagination: false
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  proxy:
+    host: ''
+    port: ''
+  extra_options:
+    key: value
+cinema: # 追剧设置
+  enable: true
+  path:
+  vmid:
+  title: '追剧列表'
+  quote: '生命不息，追剧不止！'
+  show: 1
+  lazyload: true
+  srcValue: '__image__'
+  lazyloadAttrName: 'data-src=__image__'
+  loading:
+  metaColor:
+  color:
+  webp:
+  progress:
+  extraOrder:
+  extra_options:
+    key: value

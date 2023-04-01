@@ -104,7 +104,7 @@ menu:
   sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   game: https://amemei.github.io/ || game
-
+  bangumi: /bangumis/index.html || bangumi
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
