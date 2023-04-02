@@ -1,1 +1,0 @@
-hexo.extend.injector.register('body_begin', '<script src="/js/snow.js"></script>', 'default');
