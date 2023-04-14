@@ -5,6 +5,10 @@
       "path": "Next魔改记录.md"
     },
     {
+      "basename": "hello-world",
+      "path": "hello-world.md"
+    },
+    {
       "basename": "墙",
       "path": "墙.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "谷歌娘金句收集",
       "path": "谷歌娘金句收集.md"
-    },
-    {
-      "basename": "hello-world",
-      "path": "hello-world.md"
     }
   ],
   "omittedPaths": [],

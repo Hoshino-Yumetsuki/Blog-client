@@ -1,8 +1,12 @@
 ---
 title: Hello World
-date: 2022-06-12
 tags:
-- hello-world
+  - hello-world
+abbrlink: 4a17b156
+date: 2022-06-12 00:00:00
+cover: https://npm.elemecdn.com/q78kg-pictures/38f758c3-6a4f-46bd-8b92-0a9a334fe63f.jpg
+categories:
+	- Hello World
 ---
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).

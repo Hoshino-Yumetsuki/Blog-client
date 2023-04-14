@@ -1,1 +1,0 @@
-hexo.extend.injector.register('head_end', '<script src="/live2d-widget/autoload.js"></script>', 'default');
