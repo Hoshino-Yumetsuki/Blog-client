@@ -1,7 +1,7 @@
 #about-page
   .author-box
     .author-img
-      img.no-lightbox(src='https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg')
+      img.no-lightbox(src='https://npm.elemecdn.com/q78kg-pictures/avatar.png')
     .image-dot
   p.p.center.logo.large 关于我
   .author-content
@@ -10,7 +10,7 @@
       .title2
         | 我
       .title1
-        | 是一名 初中生
+        | 是一名 学牲
         span.inline-word 博主
     .aboutsiteTips.author-content-item
       .author-content-item-tips 追求
@@ -27,46 +27,6 @@
           span(data-up) 程序
           |
           span(data-show) 体验
-
-
-  .author-content
-    .author-content-item.skills
-      .card-content
-        .author-content-item-tips 技能
-        span.author-content-item-title 开启创造力
-        .skills-style-group
-          .tags-group-all
-            .tags-group-wrapper
-              each i in site.data.creativity
-                - const evenNum = i.creativity_list.filter((x, index) => index % 2 === 0);
-                - const oddNum = i.creativity_list.filter((x, index) => index % 2 === 1);
-                each item, index in i.creativity_list
-                  if ((index+1 <= evenNum.length) && (index+1 <= oddNum.length))
-                    .tags-group-icon-pair
-                      .tags-group-icon(style=`background: ${evenNum[index].color}`)
-                        img.no-lightbox(title=evenNum[index].name, src=evenNum[index].icon)
-                      .tags-group-icon(style=`background: ${oddNum[index].color}`)
-                        img.no-lightbox(title=oddNum[index].name, src=oddNum[index].icon)
-          .skills-list
-            each i in site.data.creativity
-              each item, index in i.creativity_list
-                .skill-info
-                  .skill-icon(style=`background: ${item.color}`)
-                    img.no-lightbox(title=item.name, src=item.icon)
-                  .skill-name
-                    span=item.name
-            .etc ...
-    .author-content-item.careers
-      .card-content
-        .author-content-item-tips 生涯
-        span.author-content-item-title 无限进步
-        .careers-group
-          .careers-item
-            .circle(style='background:#357ef5')
-            .name 重庆市涪陵外国语学校
-          .careers-item
-            .circle(style='background:#db5a7b')
-            .name 重庆市西南大学附中
 
   .author-content
     .about-statistic.author-content-item
@@ -86,16 +46,16 @@
       .author-content-item.map.single
         span.map-title
           | 我现在住在
-          b 中国，重庆市
+          b 中国，深圳市
       .author-content-item.selfInfo.single
         div
           span.selfInfo-title 生于
           |
-          span.selfInfo-content#selfInfo-content-year(style='color:#43a6c6') 2010
+          span.selfInfo-content#selfInfo-content-year(style='color:#43a6c6') 1145
         div
           span.selfInfo-title 现在职业
           |
-          span.selfInfo-content(style='color:#b04fe6') 初一学生👨‍🎓
+          span.selfInfo-content(style='color:#b04fe6') 学牲👨‍🎓
 
   .author-content
     .author-content-item.personalities
@@ -113,16 +73,16 @@
     .author-content-item.maxim
       .author-content-item-tips 座右铭
       span.maxim-title
-        span(style='opacity:.6;margin-bottom:8px') 人有悲欢离合
+        span(style='opacity:.6;margin-bottom:8px') 颠覆超越
         |
-        span 月有阴晴圆缺
+        span 一步一步实现
     .author-content-item.buff
       .card-content
         .author-content-item-tips 特长
         span.buff-title
           span(style='opacity:.6;margin-bottom:8px')
-            | 脑回路新奇的
-            span.inline-word 酸菜鱼
+            | 会写点答辩前端
+            span.inline-word
           |
           span
             | 二次元指数
@@ -168,44 +128,29 @@
   .author-content
     .create-site-post.author-content-item.single
       .author-content-item-tips 心路历程
-      p Hi~欢迎来到我的博客。这里会有许多杂七杂八的文章，更新随缘，有的时候比鸽子还咕咕咕，有的时候比母猪还高产QAQ。有的时候会用做笔记吧，也算是
+      p Hi~欢迎来到我的博客。这里会有许多杂七杂八的文章，喜欢
+        del 在厕所里
+        span 思考，然后就会写出一些
+        del 很E的
+        span 文章（
+      p 会写点
         del 屎山
-        span 个人网页编写能力的
-        del 垃圾堆
-        span 体现了吧。
-        span 还有，我很喜欢发动态，这个博客的说说很明显是一个不错的体现点。写博确实是一种乐趣，我希望我可以坚持下来
-      h2 为什么而搭建博客？
-      p 纯粹是处于分享欲，说实话我还是喜欢把自己的东西拿出去分享的，还可以做社交，自从我的OI步入正轨之后，就可以把文章扔到这上面了
-      h2 为什么叫Ariasaka？
-      p 跟某番/游戏无关，随便想+滚键盘的qwq
-      del.noheimu
-        h2 为什么这么慢？
-        p 我是学生党，初中生，哪来的钱呢？CDN，COS刷爆怎么办？况且我也没法备案啊(ノへ￣、)，自然就很慢了，可惜NPM全站加速失败（因为站太花了jsd不能用，所以目前为数不多的优化方式就是
-          a(href="https://tianli-blog.club/jsd") TianliCDN
-          span +
-          a(href="https://7bu.top") 7bu图床
-          span +
-          a(href="") CYFanSW
-          span ，so首次加载很慢————很慢————很————慢~~，大概也就30-120s吧
-      h2 网站怎么加速的？
-      p 上了pjax和~~炒鸡NB的~~存储桶加速，虽然没有备案但速度还不错
-      p 啊对，请那些刷流量的耗子尾汁
-      h2 Favicon?
-      p 当然是
-        del 欧内撒麻
-        span 炮姐啦！
-      h2 还有什么？
-      p 我是一个
-        del(class="noheimu") 蒟蒻
-        span OIer，自然文章写着写着就成题解风了
-        del （雾，大雾，重庆雾
-        p 因为是学生，所以评论、友链基本上是周末回复（除了网课），敬请谅解qwq。
-      p 本站采用主题为自己独立后的Hexo-theme-Acryple，已经开源在Github，基于Hexo-theme-Butterfly 4.2.2，不过并没有专门做配置文件，文章甚至key都没删（原本是用作博客GithubActions部署的）
-      p 哦对了，如果速度不行的话可以试试切换线路（眼睛别花了），卡顿可以在右下角侧边栏打开设置调整一些设置，也可以看起来好看点（）
-      del(class="noheimu") 我不是原批啊啊啊qwq 
+        span 代码
+      h2 Q and A
+      h3 为什么要搭建博客？
+      span 搭建博客最开始是在玩MC的群里看到一个人给他们班搭了个博客，觉得新奇就踏上了这条不归路
+      h3 为什么叫Q78KG？
+      span 以前年少无知，玩游戏在游戏里拿了别人东西给整封号了，这个ID是我在封号后为了重新开始滚键盘滚出来的，字面上并没有什么特殊意义，但这个ID代表了我的社会经验的成长，觉得有意义就保留了下来
+      h3 主题
+      span 主题原来是经过我那双灵巧的
+        del 快要残废的
+        span 双手亲手魔改的Next主题，当时看到Next过于简洁，按耐不住我这颗躁动的心反手就加了个Butterfly的全屏着陆页上去
+      p 但是后来折腾的时候发现Next魔改的相关资料过于稀少，再加上我的技术过于蒟蒻，就把主题换成了Ariasaka的Hexo-theme-Acryple
+      p
+        del 在修改主题about页面的时候意外发现我比Ariasaka大那么一两岁，然后看看自己，再看看她，人和人的差距一下子就出来了（
   h1 文章统计
   script(src="https://npm.elemecdn.com/echarts@4.9.0/dist/echarts.min.js")
-  div(id="posts-chart" data-start="2021-01" style="border-radius: 8px; height: 300px; padding: 10px;")
+  div(id="posts-chart" data-start="2022-01" style="border-radius: 8px; height: 300px; padding: 10px;")
   div(id="tags-chart" data-length="10" style="border-radius: 8px; height: 300px; padding: 10px;")
   div(id="categories-chart" data-parent="true" style="border-radius: 8px; height: 300px; padding: 10px;")
 
@@ -255,7 +200,7 @@ script.
           }
         }
 
-        const selfInfoContentYear = new CountUp('selfInfo-content-year', 0, 2010, 0, 2, {
+        const selfInfoContentYear = new CountUp('selfInfo-content-year', 0, 1145, 0, 2, {
           useEasing: true,
           useGrouping: false,
           separator: ',',

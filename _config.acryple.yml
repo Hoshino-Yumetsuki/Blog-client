@@ -10,22 +10,13 @@ menu:
     分类: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
   本站 || fa fa-sitemap:
-    # 说说: /speaks/ || fa fa-comments
-    友链: /links/ || fas fa-link
-    # 朋友圈: /fcircle/ || fab fa-galactic-republic
+    # 友链: /links/ || fas fa-link
     分站: /othersite/ || fa fa-tasks
-    日志: /update/ || fa fa-bell 
+    日志: /log/ || fa fa-bell
     留言板: /messageboard/ || fa fa-blackboard
   我的 || fa-fw fas fa-address-card:
-    # 电影: /movies/ || fa fa-photo-video
     追番: /bangumis/ || fa-fw fas fa fa-film
-    # 音乐: /musics/ || fa fa-music
     关于我: /about/ || fa fa-info-circle
-    # 声明: /license/ || fas fa-balance-scale
-  # 工具 || fa-fw fas fa-tools:
-  #   小空调: /kongtiao/
-  #   每日早报: /zaobao/ || fa fa-newspaper
-  #   木鱼: /muyu/ || fa fa-cog
   # 线路 || fas fa-link:
   #   Vercel: https://yisous.xyz
   #   Vercel2: https://vercel.yisous.xyz
@@ -104,7 +95,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://npm.elemecdn.com/q78kg-pictures/avatar-60x60.png
+favicon: https://npm.elemecdn.com/q78kg-pictures/avatar.png
 
 # Avatar (頭像)
 avatar:
