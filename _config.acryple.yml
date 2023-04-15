@@ -57,14 +57,14 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/lyxofficial || Github
-  #fas fa-envelope: mailto:lyx2010official.outlook.com || Email
-  #iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
-  iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
-  iconfont icon-RSS: https://www.cnblogs.com/LYXOfficial || 博客园
-  fa fa-rss: /atom.xml || 订阅RSS源
-  iconfont icon-zhihu: https://www.zhihu.com/people/lyx-29-86-4 || 知乎
-  iconfont icon-bilibili: https://space.bilibili.com/369280472 || bilibili
+  fab fa-github: https://github.com/SuSWhW || Github
+  # fas fa-envelope: mailto:lyx2010official.outlook.com || Email
+  # iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
+  # iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
+  # iconfont icon-RSS: https://www.cnblogs.com/LYXOfficial || 博客园
+  # fa fa-rss: /atom.xml || 订阅RSS源
+  # iconfont icon-zhihu: https://www.zhihu.com/people/lyx-29-86-4 || 知乎
+  # iconfont icon-bilibili: https://space.bilibili.com/369280472 || bilibili
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -80,7 +80,7 @@ algolia_search:
 local_search:
   enable: true
   preload: true
-  CDN: 
+  CDN:
 
 # Math (數學)
 # --------------------------------------
@@ -104,7 +104,7 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://bu.dusays.com/2022/09/01/63103c75da20e.webp
+favicon: https://npm.elemecdn.com/q78kg-pictures/avatar-60x60.png
 
 # Avatar (頭像)
 avatar:
