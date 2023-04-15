@@ -288,7 +288,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus
   use:
-    - Gitalk
+    - Twikoo
     # - Valine
     # - Twikoo # Valine,Disqus
   text: true # Display the comment name next to the button
@@ -320,10 +320,10 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  client_id: 608d8bc17ec10074a409
-  client_secret: f8c9c66a046dbfc56bdca45f49dcf761b1ea456a
-  repo: Blog-comment
-  owner: SuSWhW
+  client_id:
+  client_secret:
+  repo:
+  owner:
   admin:
   option:
 
@@ -368,7 +368,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://yourapi.example.com/
+  envId: https://blog-comment-twikoo-egxybpsx1-suswhw.vercel.app
   region:
   visitor: true
   option:
