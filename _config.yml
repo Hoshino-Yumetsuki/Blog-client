@@ -40,6 +40,7 @@ skip_render:
   - people.html
   - noie.html
   - config.yaml
+  - live2d-widget/**
   - .obsidian/**
   - BingSiteAuth.xml
   - googlebe706248808ee393.html
