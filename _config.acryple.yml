@@ -12,8 +12,6 @@ menu:
   本站 || fa fa-sitemap:
     # 友链: /links/ || fas fa-link
     分站: /othersite/ || fa fa-tasks
-    日志: /log/ || fa fa-bell
-    留言板: /messageboard/ || fa fa-blackboard
   我的 || fa-fw fas fa-address-card:
     追番: /bangumis/ || fa-fw fas fa fa-film
     关于我: /about/ || fa fa-info-circle
