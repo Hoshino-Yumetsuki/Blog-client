@@ -663,7 +663,7 @@ aside:
       enable: false
       icon: fab fa-github
       text: 看看博主的Github
-      link: https://github.com/lyxofficial
+      link: https://github.com/SuSWhW
   card_announcement:
     enable: true
     content: 本网站的Twikoo评论系统使用Cravatar头像系统，请自行绑定邮箱配置
@@ -852,9 +852,9 @@ lazyload:
 pwa:
   enable: true
   manifest: /manifest.json
-  apple_touch_icon: /img/apple-touch-icon.png
-  favicon_32_32: /img/32.png
-  favicon_16_16: /img/16.png
+  apple_touch_icon: https://npm.elemecdn.com/q78kg-pictures/avatar.png
+  favicon_32_32: https://npm.elemecdn.com/q78kg-pictures/avatar.png
+  favicon_16_16: https://npm.elemecdn.com/q78kg-pictures/avatar.png
   mask_icon: /img/safari-pinned-tab.svg
 
 # Open graph meta tags
