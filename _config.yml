@@ -256,8 +256,8 @@ markdown_it_plus:
     permalinkSymbol: ¶
 
 aplayer:
-  meting: false
-  asset_inject: false
+  meting: true
+  asset_inject: true
 
 # enable: 开启/关闭 推送
 # cron: 执行时间周期
