@@ -199,7 +199,7 @@ bangumi: # 追番设置
   extra_options:
     key: value
 cinema: # 追剧设置
-  enable: true
+  enable: false
   path:
   vmid: 487189150
   title: '追剧列表'
