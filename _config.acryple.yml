@@ -15,6 +15,7 @@ menu:
   我的 || fa-fw fas fa-address-card:
     追番: /bangumis/ || fa-fw fas fa fa-film
     关于我: /about/ || fa fa-info-circle
+    大饼: /bigpie/ || fas fa-cheese
   # 线路 || fas fa-link:
   #   Vercel: https://yisous.xyz
   #   Vercel2: https://vercel.yisous.xyz
