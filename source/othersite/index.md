@@ -13,7 +13,7 @@ date: 2022-08-04 11:38:05
 <th>搭建原因</th>
 </tr>
 <tr>
-<td><a href="amemei.github.io">amemei.github.io</a></td>
+<td><a href="https://amemei.github.io">amemei.github.io</a></td>
 <td>和朋友一起整的神秘网站</td>
 <td>一时兴起（？</td>
 </table>
