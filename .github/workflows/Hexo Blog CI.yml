@@ -50,6 +50,5 @@ jobs:
       run: |
         hexo clean
         hexo bangumi -u
-        hexo cinema -u
         hexo generate
         hexo deploy
