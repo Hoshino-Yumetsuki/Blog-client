@@ -869,6 +869,7 @@ css_prefix: true
 # # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+  - <link rel="stylesheet" type="text/css" href="/css/404page.css">
   - <script src="/live2d-widget/autoload.js"></script>
   - <link rel="stylesheet" href="/css/ariasakablog.css">
   - <link id="css" rel="stylesheet" href="/css/stylessimple.css">
