@@ -641,6 +641,7 @@ th{
     color:var(--lyx-white);
     font-size: 44px;
 }
+/*
 hr{
     background:url(https://cdn1.tianli0.top/npm/hassan-assets/img/Bilibili_Dividing_Line.png)!important;
     height:130px;
@@ -649,6 +650,7 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
 }
+*/
 #nav{
     font-size: 22px !important;
 }
