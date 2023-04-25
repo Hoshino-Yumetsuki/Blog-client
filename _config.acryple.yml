@@ -869,6 +869,9 @@ css_prefix: true
 # # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+  - <script async data-pjax src="/js/jikewater.js"></script>
+  - <script async data-pjax src="/js/jike.js"></script>
+  - <link rel="stylesheet" type="text/css" href="/css/essay.css">
   - <link rel="stylesheet" type="text/css" href="/css/404page.css">
   - <script src="/live2d-widget/autoload.js"></script>
   - <link rel="stylesheet" href="/css/ariasakablog.css">
