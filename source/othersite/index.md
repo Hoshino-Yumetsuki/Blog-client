@@ -6,6 +6,21 @@ date: 2022-08-04 11:38:05
 
 > *PS：划掉的表示已挂*
 
+## 站点
+
+<table border="1">
+<tr>
+<th>域名</th>
+<th>用处</th>
+<th>搭建原因</th>
+</tr>
+<tr>
+<td><a href="https://suswhw.github.io">Suswhw.github.io</a></td>
+<td>主站</td>
+<td>想当年......</td>
+
+</table>
+
 ## 神秘网站
 
 <table border="1">
