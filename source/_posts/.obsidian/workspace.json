@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Next魔改记录.md"
+                    "file": "谈谈抑郁症.md"
                   }
                 }
               }
@@ -47,12 +47,12 @@
         "dimension": 75.71138211382113,
         "children": [
           {
-            "id": "13ddd6c331c083fc",
+            "id": "6e1a55c19441dd9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next魔改记录.md",
+                "file": "谈谈抑郁症.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -181,12 +181,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "13ddd6c331c083fc",
+  "active": "6e1a55c19441dd9f",
   "lastOpenFiles": [
-    "hello-world.md",
-    "墙.md",
-    "奇闻.md",
     "谷歌娘金句收集.md",
+    "谈谈抑郁症.md",
+    "奇闻.md",
+    "墙.md",
+    "hello-world.md",
     "Next魔改记录.md",
     "Drawing 2023-03-26 20.28.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-26 20.26.15.excalidraw.md",
