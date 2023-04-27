@@ -6,6 +6,8 @@ date: 2022-08-04 11:38:05
 
 *PS：划掉的表示已挂*
 
+## 神秘网站
+
 <table border="1">
 <tr>
 <th>域名</th>
@@ -16,9 +18,13 @@ date: 2022-08-04 11:38:05
 <td><a href="https://amemei.github.io">amemei.github.io</a></td>
 <td>和朋友一起整的神秘网站</td>
 <td>一时兴起（？</td>
+<tr>
+<td><a href="https://suswhw.github.io/Amemei.github.io-reading">amemei.github.io</a></td>
+<td>神秘网站的附属阅读站</td>
+<td>一时兴起（？</td>
 </table>
 
-注意：本博客强制HTTPS，旧电脑可能会出现问题。
+> 注意：本博客强制HTTPS，旧电脑可能会出现问题。
 
 <style>
 #article-container a:not(.post-meta__tags):not(img):not(a[data-fancybox]):hover{
