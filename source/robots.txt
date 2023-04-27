@@ -13,5 +13,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://blog.ours1984.top/sitemap.xml
-Sitemap: https://blog.ours1984.top/baidusitemap.xml
+Sitemap: https://suswhw.github.io/sitemap.xml
