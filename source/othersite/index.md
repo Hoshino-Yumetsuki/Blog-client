@@ -33,7 +33,7 @@ date: 2022-08-04 11:38:05
 <td>和朋友一起整的神秘网站</td>
 <td>一时兴起（？</td>
 <tr>
-<td><a href="https://suswhw.github.io/Amemei.github.io-reading">Amemei.github.io-reading</a></td>
+<td><a href="https://suswhw.github.io/Amemei.github.io-reading">Suswhw.github.io/Amemei.github.io-reading</a></td>
 <td>神秘网站的附属阅读站</td>
 <td>一时兴起（？</td>
 </table>
