@@ -359,7 +359,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://blog-comment-twikoo-ruddy.vercel.app/
+  envId: https://twikoo.suswhw.top/
   region:
   visitor: true
   option:
