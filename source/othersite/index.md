@@ -15,7 +15,7 @@ date: 2022-08-04 11:38:05
 <th>搭建原因</th>
 </tr>
 <tr>
-<td><a href="https://suswhw.github.io">Suswhw.github.io</a></td>
+<td><a href="https://suswhw.top">Suswhw.top</a></td>
 <td>主站</td>
 <td>想当年......</td>
 </table>
