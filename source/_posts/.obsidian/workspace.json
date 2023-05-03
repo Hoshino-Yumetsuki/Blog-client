@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "谈谈抑郁症.md"
+                    "file": "简爱中的女性意识.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谈谈抑郁症.md",
+                "file": "简爱中的女性意识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,6 +96,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "86ec59b53a4afe70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -183,12 +191,13 @@
   },
   "active": "6e1a55c19441dd9f",
   "lastOpenFiles": [
-    "谷歌娘金句收集.md",
-    "谈谈抑郁症.md",
     "奇闻.md",
+    "谷歌娘金句收集.md",
+    "简爱中的女性意识.md",
     "墙.md",
     "hello-world.md",
     "Next魔改记录.md",
+    "谈谈抑郁症.md",
     "Drawing 2023-03-26 20.28.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-26 20.26.15.excalidraw.md",
     "Excalidraw",
