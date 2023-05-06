@@ -1,6 +1,12 @@
 Web img + Npm img
 
-## SFW
+## Npm img
+
+https://npm.elemecdn.com/q78kg-pictures/
+
+## Web img
+
+### SFW
 
 | Artwork | Proxy Url |
 | --- | --- |
@@ -10,7 +16,7 @@ Web img + Npm img
 | https://www.pixiv.net/artworks/107784754 | https://pixiv-img.suswhw.top/img-original/img/2023/05/04/00/18/34/107784754_p0.png |
 | https://www.pixiv.net/artworks/107750395 | https://pixiv-img.suswhw.top/img-original/img/2023/05/03/00/01/03/107750395_p0.jpg |
 
-## NSFW
+### NSFW
 
 | Artwork | Proxy Url |
 | --- | --- |
