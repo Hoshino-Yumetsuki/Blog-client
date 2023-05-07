@@ -12,5 +12,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /img-col/
 
 Sitemap: https://suswhw.github.io/sitemap.xml
