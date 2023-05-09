@@ -1,0 +1,3 @@
+{
+  "buildCommand": "hexo cl&hexo bangumi -u&hexo g"
+}

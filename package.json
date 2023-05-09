@@ -1,27 +1,12 @@
 {
-  "name": "ariasaka-blog",
+  "name": "q78kg-blog",
   "version": "1.0.1",
   "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
-    "sync": "yuque-hexo sync",
-    "clean:yuque": "yuque-hexo clean"
-  },
-  "yuqueConfig": {
-    "postPath": "source/_posts",
-    "cachePath": "yuque.json",
-    "mdNameFormat": "slug",
-    "adapter": "markdown",
-    "concurrency": 5,
-    "baseUrl": "https://www.yuque.com/api/v2",
-    "login": "ariasaka",
-    "repo": "lgd8fp",
-    "token": "a2AW8ktTvbyLXhl4D40WOqh8k3fh5SPzNfPCkxuN",
-    "onlyPublished": true,
-    "onlyPublic": true
+    "server": "hexo server"
   },
   "hexo": {
     "version": "6.3.0"
