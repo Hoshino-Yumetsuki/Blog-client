@@ -146,9 +146,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  background: https://pixiv-img.suswhw.top/img-original/img/2022/04/27/09/50/10/97911234_p0.jpg
 
 post_meta:
   page: # Home Page
@@ -865,6 +865,8 @@ css_prefix: true
 # # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
+  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/mainColor/heoMainColor.css">
+  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/404/404.css">
   - <script async data-pjax src="/js/jikewater.js"></script>
   - <script async data-pjax src="/js/jike.js"></script>
   - <link rel="stylesheet" type="text/css" href="/css/essay.css">
