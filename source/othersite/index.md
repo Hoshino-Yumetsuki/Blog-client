@@ -8,35 +8,19 @@ date: 2022-08-04 11:38:05
 
 ## 站点
 
-<table border="1">
-<tr>
-<th>域名</th>
-<th>用处</th>
-<th>搭建原因</th>
-</tr>
-<tr>
-<td><a href="https://suswhw.top">Suswhw.top</a></td>
-<td>主站</td>
-<td>想当年......</td>
-</table>
+
+| 域名 | 用处 | 搭建原因 |
+| --- | --- | --- |
+| <a href="https://suswhw.top">suswhw.top</a> | 主站 | 想当年...... |
+| <a href="https://reading.suswhw.top">reading.suswhw.top</a> | 小说站，上面有Q某瞎写的小说 | 一时兴起（？ |
+
 
 ## 神秘网站
 
-<table border="1">
-<tr>
-<th>域名</th>
-<th>用处</th>
-<th>搭建原因</th>
-</tr>
-<tr>
-<td><a href="https://amemei.github.io">Amemei.github.io</a></td>
-<td>和朋友一起整的神秘网站</td>
-<td>一时兴起（？</td>
-<tr>
-<td><a href="https://suswhw.github.io/Amemei.github.io-reading">Suswhw.github.io/Amemei.github.io-reading</a></td>
-<td>神秘网站的附属阅读站</td>
-<td>一时兴起（？</td>
-</table>
+| 域名 | 用处| 搭建原因 |
+| --- | --- | --- |
+| <a href="https://amemei.github.io">amemei.github.io</a> | 和朋友一起整的神秘网站 | 一时兴起（？ |
+| <a href="https://suswhw.github.io/Amemei.github.io-reading">suswhw.github.io/Amemei.github.io-reading</a> | 神秘网站的附属阅读站 | 一时兴起（？ |
 
 > 注意：本博客强制HTTPS，旧电脑可能会出现问题。
 
