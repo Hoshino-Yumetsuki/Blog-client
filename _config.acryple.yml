@@ -14,6 +14,7 @@ menu:
     分站: /othersite/ || fa fa-tasks
   我的 || fa-fw fas fa-address-card:
     追番: /bangumis/ || fa-fw fas fa fa-film
+    书单: /booklist/ || fa fa-book
     关于我: /about/ || fa fa-info-circle
     大饼: /bigpie/ || fas fa-cheese
   线路 || fas fa-link:
