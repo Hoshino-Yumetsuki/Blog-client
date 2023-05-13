@@ -180,16 +180,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e1a55c19441dd9f",
+  "active": "e9133b7b03bfbcc6",
   "lastOpenFiles": [
     "hello-world.md",
     "墙.md",
