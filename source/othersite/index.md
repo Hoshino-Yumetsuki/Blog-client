@@ -12,6 +12,7 @@ date: 2022-08-04 11:38:05
 | 域名 | 用处 | 搭建原因 |
 | --- | --- | --- |
 | <a href="https://suswhw.top">suswhw.top</a> | 主站 | 想当年...... |
+| <a href="https://q78kg.eu.org">q78kg.eu.org</a> | 乐子域名 | 没域名的时候整的，审核太慢了就买了域名，结果刚买了域名没多久就给我审核通过了(悲 |
 | <a href="https://reading.suswhw.top">reading.suswhw.top</a> | 小说站，上面有Q某瞎写的小说 | 一时兴起（？ |
 
 
