@@ -180,7 +180,7 @@ $.ajax({
                     posdesc = "带我去你的国家逛逛吧。";
                     break;
             }
-        
+
             //判断时间
             let timeChange;
             let date = new Date();
@@ -191,13 +191,14 @@ $.ajax({
             else if (date.getHours() >= 16 && date.getHours() < 19) timeChange = "<span>夕阳无限好！</span>";
             else if (date.getHours() >= 19 && date.getHours() < 24) timeChange = "<span>晚上好</span>，夜生活嗨起来！";
             else timeChange = "夜深了，早点休息，少熬夜";
-        
+
             document.getElementsByClassName("announcement_content")[0].innerHTML =
                 `欢迎来自<span>${pos}</span>的小伙伴，${timeChange}<br>
         你距离Q78KG约有<span>${dist}</span>公里，${posdesc}
         <br>
+
         <br>
-        好啊
+        <a href="https://icp.gov.moe/?keyword=20230193" target="_blank">萌ICP备20230193号</a>
         `;
         }
         showWelcome()
