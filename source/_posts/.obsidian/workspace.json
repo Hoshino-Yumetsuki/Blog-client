@@ -6,7 +6,7 @@
       {
         "id": "062db77d1e73e3a8",
         "type": "split",
-        "dimension": 24.288617886178862,
+        "dimension": 24.324324324324326,
         "children": [
           {
             "id": "14bf3744eb85fdef",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Next魔改记录.md"
+                    "file": "梦溯镜影-设定集.md"
                   }
                 }
               }
@@ -44,16 +44,16 @@
       {
         "id": "8651b3580fd50498",
         "type": "tabs",
-        "dimension": 75.71138211382113,
+        "dimension": 75.67567567567568,
         "children": [
           {
-            "id": "6e1a55c19441dd9f",
+            "id": "13ddd6c331c083fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next魔改记录.md",
-                "mode": "preview",
+                "file": "梦溯镜影-设定集.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "86ec59b53a4afe70",
+            "id": "7a28041336b6854e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "dd394d106eaee0c6",
+            "id": "17f7bf713dd4979a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,24 +180,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "梦溯镜影-楔子.md",
+    "梦溯镜影-设定集.md",
     "hello-world.md",
     "墙.md",
     "奇闻.md",
     "简爱中的女性意识.md",
     "谷歌娘金句收集.md",
     "Next魔改记录.md",
-    "未命名.md",
     "谈谈抑郁症.md",
     "Drawing 2023-03-26 20.28.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-26 20.26.15.excalidraw.md",
