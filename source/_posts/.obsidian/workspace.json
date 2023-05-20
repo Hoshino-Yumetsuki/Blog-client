@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "梦溯镜影-设定集.md"
+                    "file": "hello-world.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-设定集.md",
+                "file": "hello-world.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
