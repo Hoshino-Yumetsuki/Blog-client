@@ -21,7 +21,7 @@ date: 2022-08-04 11:38:05
 | 域名 | 用处| 搭建原因 |
 | --- | --- | --- |
 | <a href="https://amemei.github.io">amemei.github.io</a> | 和朋友一起整的神秘网站 | 一时兴起（？ |
-| <a href="https://suswhw.github.io/Amemei.github.io-reading">suswhw.github.io/Amemei.github.io-reading</a> | 神秘网站的附属阅读站 | 一时兴起（？ |
+| <a href="https://amemei-github-io-reading.suswhw.top">https://amemei-github-io-reading.suswhw.top</a> | 神秘网站的附属阅读站 | 一时兴起（？ |
 
 > 注意：本博客强制HTTPS，旧电脑可能会出现问题。
 
