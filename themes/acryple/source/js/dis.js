@@ -198,7 +198,7 @@ $.ajax({
         <br>
 
         <br>
-        <a href="https://icp.gov.moe/?keyword=20230193" target="_blank">萌ICP备20230193号</a>
+        <a href="https://icp.gov.moe/?keyword=20220146" target="_blank">萌ICP备20220146号</a>
         `;
         }
         showWelcome()

@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "hello-world.md"
+                    "file": "简爱中的女性意识.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello-world.md",
+                "file": "简爱中的女性意识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -191,9 +191,9 @@
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "hello-world.md",
     "梦溯镜影-楔子.md",
     "梦溯镜影-设定集.md",
-    "hello-world.md",
     "墙.md",
     "奇闻.md",
     "简爱中的女性意识.md",
