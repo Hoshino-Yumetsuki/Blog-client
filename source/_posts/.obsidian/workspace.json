@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "简爱中的女性意识.md"
+                    "file": "梦溯镜影-设定集.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简爱中的女性意识.md",
+                "file": "梦溯镜影-设定集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -189,10 +189,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "13ddd6c331c083fc",
+  "active": "e9133b7b03bfbcc6",
   "lastOpenFiles": [
+    "梦溯镜影-Chapter 0.md",
     "hello-world.md",
-    "梦溯镜影-楔子.md",
     "梦溯镜影-设定集.md",
     "墙.md",
     "奇闻.md",
