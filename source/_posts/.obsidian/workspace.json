@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "梦溯镜影-设定集.md"
+                    "file": "谷歌娘金句收集.md"
                   }
                 }
               }
@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-设定集.md",
-                "mode": "source",
+                "file": "谷歌娘金句收集.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -97,14 +97,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "7a28041336b6854e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       },
@@ -145,17 +137,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "17f7bf713dd4979a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
           }
         ]
       },
@@ -189,7 +170,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
     "梦溯镜影-Chapter 0.md",
     "hello-world.md",
