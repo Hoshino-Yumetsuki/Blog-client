@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ea7a37a63c57fe94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -136,6 +144,17 @@
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          },
+          {
+            "id": "1e6e9cc920da72de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
