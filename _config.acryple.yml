@@ -19,9 +19,10 @@ menu:
     关于我: /about/ || fa fa-info-circle
     大饼: /bigpie/ || fas fa-cheese
   线路 || fas fa-link:
-    Github: https://suswhw.top/
+    Github: https://github.suswhw.top/
     Cloudflare: https://cf.suswhw.top/
-    Vercel: http://vercel.suswhw.top/
+    Vercel: http://suswhw.top/
+    Vercel2: https://vercel.suswhw.top
 
 
 # Code Blocks (代碼相關)
