@@ -20,7 +20,7 @@ updated: 2023-5-27T16:56:14.880+8:0
 | 域名                                                                                                  | 用处                   | 搭建原因     |
 | ----------------------------------------------------------------------------------------------------- | ---------------------- | ------------ |
 | <a href="https://amemei.github.io">amemei.github.io</a>                                               | 和朋友一起整的神秘网站 | 一时兴起（？ |
-| <a href="https://amemei-github-io-reading.suswhw.top">https://amemei-github-io-reading.suswhw.top</a> | 神秘网站的附属阅读站   | 一时兴起（？ |
+| <a href="https://amemei-github-io-reading.suswhw.top">amemei-github-io-reading.suswhw.top</a> | 神秘网站的附属阅读站   | 一时兴起（？ |
 
 > 注意：本博客强制HTTPS，旧电脑可能会出现问题。
 
