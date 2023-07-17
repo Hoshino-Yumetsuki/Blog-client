@@ -94,11 +94,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://npm.elemecdn.com/q78kg-pictures/avatar-60x60.png
+favicon: https://npm.elemecdn.com/q78kg-website-npm-cdn/avatar-60x60.png
 
 # Avatar (頭像)
 avatar:
-  img: https://npm.elemecdn.com/q78kg-pictures/avatar-60x60.png
+  img: https://npm.elemecdn.com/q78kg-website-npm-cdn/avatar-60x60.png
   effect: false
 
 # Disable all banner image
@@ -851,9 +851,9 @@ lazyload:
 pwa:
   enable: true
   manifest: /manifest.json
-  apple_touch_icon: https://npm.elemecdn.com/q78kg-pictures/avatar.png
-  favicon_32_32: https://npm.elemecdn.com/q78kg-pictures/avatar.png
-  favicon_16_16: https://npm.elemecdn.com/q78kg-pictures/avatar.png
+  apple_touch_icon: https://npm.elemecdn.com/q78kg-website-npm-cdn/avatar.png
+  favicon_32_32: https://npm.elemecdn.com/q78kg-website-npm-cdn/avatar.png
+  favicon_16_16: https://npm.elemecdn.com/q78kg-website-npm-cdn/avatar.png
   mask_icon: /img/safari-pinned-tab.svg
 
 # Open graph meta tags

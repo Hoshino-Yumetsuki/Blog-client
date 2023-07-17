@@ -8,7 +8,7 @@ Web img + Npm img
 
 ## Npm img
 
-https://npm.elemecdn.com/q78kg-pictures/
+https://npm.elemecdn.com/q78kg-website-npm-cdn/
 
 ## Web img
 
