@@ -177,7 +177,7 @@ const handle = async(req)=>{
     const domain = urlObj.hostname;
     //从这里开始
     lxs=[]
-    if(domain === "suswhw.top"){//这里写你需要拦截的域名
+    if(domain === "yisous.xyz"){//这里写你需要拦截的域名
         var l=lfetch(generate_blog_urls('ariasakablog',await db.read('blog_version') || '1.0.18',fullpath(urlPath)))
         return l
         .then(res=>res.arrayBuffer())
