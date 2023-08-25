@@ -5,10 +5,7 @@
   "promptDelete": false,
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "showLineNumber": false,
   "pdfExportSettings": {
     "pageSize": "Letter",

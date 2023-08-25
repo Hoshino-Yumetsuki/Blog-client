@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "梦溯镜影-设定集.md"
+                    "file": "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md"
                   }
                 }
               }
@@ -47,12 +47,12 @@
         "dimension": 75.67567567567568,
         "children": [
           {
-            "id": "13ddd6c331c083fc",
+            "id": "778ddb204ac6f9e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "梦溯镜影-设定集.md",
+                "file": "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -180,26 +180,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "778ddb204ac6f9e5",
   "lastOpenFiles": [
+    "hello-world.md",
+    "Next魔改记录.md",
+    "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
+    "简爱中的女性意识.md",
+    "谷歌娘金句收集.md",
     "梦溯镜影-Chapter 0.md",
     "梦溯镜影-设定集.md",
     "梦溯镜影-Chapter 0 1.md",
-    "hello-world.md",
     "墙.md",
     "奇闻.md",
-    "简爱中的女性意识.md",
-    "谷歌娘金句收集.md",
-    "Next魔改记录.md",
     "谈谈抑郁症.md",
     "Drawing 2023-03-26 20.28.09.excalidraw.md",
     "Excalidraw/Drawing 2023-03-26 20.26.15.excalidraw.md",
