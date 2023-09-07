@@ -2,7 +2,7 @@
 title: 全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？
 tags:
   - 日常
-cover: https://npm.elemecdn.com/q78kg-website-npm-cdn/57dac3c9-fb11-4fa1-a100-172a7172372d.png
+cover: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/background7.jpg
 categories: 闲聊杂谈
 abbrlink: e54f7476
 date: 2023-08-25 00:00:00
