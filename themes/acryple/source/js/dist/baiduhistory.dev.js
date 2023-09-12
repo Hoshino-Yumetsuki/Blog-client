@@ -37,7 +37,7 @@ if (document.getElementById('history-container')) {
     }
 
     var getMonthDate = "S" + getMonth + getDate;
-    return ["https://cdn1.tianli0.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json", getMonthDate];
+    return ["https://jsdelivrcdn.suswhw.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json", getMonthDate];
   };
 
   var history_data = history_get_data();
