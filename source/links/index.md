@@ -65,7 +65,7 @@ type: "links"
 {% tabs  %}
 <!-- tab Butterfly & MengD -->
 ```yaml
-- name: Q78KGの小窝
+- name: 梦溯·镜影
   link: https://suswhw.top/
   avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
   descr: 今日事，今日毕
@@ -76,7 +76,7 @@ type: "links"
 <!-- tab fluid -->
 ```yaml
 - {
-  title: 'Q78KGの小窝',
+  title: '梦溯·镜影',
   intro: '今日事，今日毕',
   link: 'https://suswhw.top/',
   image: 'https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png'
@@ -86,7 +86,7 @@ type: "links"
 
 <!-- tab volantis -->
 ```yaml
-- title: Q78KGの小窝
+- title: 梦溯·镜影
   avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
   url: https://suswhw.top/
   screenshot: https://yisous.xyz/img/siteshot.png
@@ -97,7 +97,7 @@ type: "links"
 
 <!-- tab html -->
 ```html
-<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">Q78KGの小窝</a>
+<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">梦溯·镜影</a>
 ```
 <!-- endtab -->
 

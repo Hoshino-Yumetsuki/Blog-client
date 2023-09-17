@@ -27,4 +27,4 @@ $(window).scroll(function () {
 
 });
 
-document.getElementById("page-name").innerText = document.title.split(" | Q78KGの小窝")[0];}
+document.getElementById("page-name").innerText = document.title.split(" | 梦溯·镜影")[0];}
