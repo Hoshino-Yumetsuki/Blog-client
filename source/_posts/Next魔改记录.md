@@ -8,7 +8,6 @@ tags:
   - Next
   - Butterfly
 abbrlink: 164ef646
-swiper_index: 1
 cover: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/2761d84a-a699-423b-a03f-241235497d1d.jpg
 categories: Hexo
 ---

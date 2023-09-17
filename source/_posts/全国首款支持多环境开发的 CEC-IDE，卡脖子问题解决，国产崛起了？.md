@@ -6,6 +6,7 @@ cover: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/background7.jpg
 categories: 闲聊杂谈
 abbrlink: e54f7476
 date: 2023-08-25 00:00:00
+swiper_index: 2
 ---
 
 以下文章来源于张洪Heo，作者张洪Heo

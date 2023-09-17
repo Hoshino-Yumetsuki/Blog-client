@@ -255,7 +255,8 @@
           "workspaces:管理工作区布局": false
         }
       },
-      "active": "13ddd6c331c083fc"
+      "active": "13ddd6c331c083fc",
+      "workspaces-plus:settings-v1": {}
     }
   },
   "active": "自定义"
