@@ -27,6 +27,10 @@ type: "links"
     link: https://blog.muzilix.cn/
     avatar: https://source.muzilix.cn/img/i.png
     descr: 期待您的光临！
+  - name: Tianli
+    link: https://tianli-blog.club/
+    avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/flink/Tianli.webp
+    descr: 自知之明是最可贵的知识！
 
 {% endflink %}
 
