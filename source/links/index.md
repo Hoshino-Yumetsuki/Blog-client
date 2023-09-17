@@ -61,7 +61,7 @@ type: "links"
 {% tabs  %}
 <!-- tab Butterfly & MengD -->
 ```yaml
-- name: Q78KGの不知道叫什么名字的地方 |･ω･｀)~
+- name: Q78KGの小窝
   link: https://suswhw.top/
   avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
   descr: 今日事，今日毕
@@ -72,7 +72,7 @@ type: "links"
 <!-- tab fluid -->
 ```yaml
 - {
-  title: 'Q78KGの不知道叫什么名字的地方 |･ω･｀)~',
+  title: 'Q78KGの小窝',
   intro: '今日事，今日毕',
   link: 'https://suswhw.top/',
   image: 'https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png'
@@ -82,7 +82,7 @@ type: "links"
 
 <!-- tab volantis -->
 ```yaml
-- title: Ariasakaの小窝
+- title: Q78KGの小窝
   avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
   url: https://suswhw.top/
   screenshot: https://yisous.xyz/img/siteshot.png
@@ -93,7 +93,7 @@ type: "links"
 
 <!-- tab html -->
 ```html
-<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">Q78KGの不知道叫什么名字的地方 |･ω･｀)~</a>
+<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">Q78KGの小窝</a>
 ```
 <!-- endtab -->
 
