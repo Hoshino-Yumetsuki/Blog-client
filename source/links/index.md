@@ -19,7 +19,16 @@ type: "links"
 
 
 
+{% flink %}
+- class_name: <a href="https://github.com/Flink"></a>
+  class_desc:
+  link_list:
+  - name: 昔颜
+    link: https://blog.muzilix.cn/
+    avatar: https://source.muzilix.cn/img/i.png
+    descr: 期待您的光临！
 
+{% endflink %}
 
 <!-- 一个友链例子 -->
 
@@ -47,16 +56,15 @@ type: "links"
 
 {% endflink %}
 
-
 {% hideToggle 我的信息 %}
 
 {% tabs  %}
 <!-- tab Butterfly & MengD -->
 ```yaml
-- name: Ariasakaの小窝
-  link: https://yisous.xyz
-  avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
-  descr: 人有悲欢离合 月有阴晴圆缺
+- name: Q78KGの不知道叫什么名字的地方 |･ω･｀)~
+  link: https://suswhw.top/
+  avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
+  descr: 今日事，今日毕
   siteshot: https://vercel.yisous.xyz/img/siteshot.png
 ```
 <!-- endtab -->
@@ -64,10 +72,10 @@ type: "links"
 <!-- tab fluid -->
 ```yaml
 - {
-  title: 'Ariasakaの小窝',
-  intro: '人有悲欢离合 月有阴晴圆缺',
-  link: 'https://yisous.xyz/',
-  image: 'https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg'
+  title: 'Q78KGの不知道叫什么名字的地方 |･ω･｀)~',
+  intro: '今日事，今日毕',
+  link: 'https://suswhw.top/',
+  image: 'https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png'
 }
 ```
 <!-- endtab -->
@@ -75,17 +83,17 @@ type: "links"
 <!-- tab volantis -->
 ```yaml
 - title: Ariasakaの小窝
-  avatar: https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg
-  url: https://yisous.xyz/
+  avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
+  url: https://suswhw.top/
   screenshot: https://yisous.xyz/img/siteshot.png
   keywords: 个人博客
-  description: 人有悲欢离合 月有阴晴圆缺
+  description: 今日事，今日毕
 ```
 <!-- endtab -->
 
 <!-- tab html -->
 ```html
-<a href="https://yisous.xyz"><img src="https://bu.dusays.com/2022/12/15/639a9ebbbc1ad.jpg" alt="avatar">Ariasakaの小窝</a>
+<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">Q78KGの不知道叫什么名字的地方 |･ω･｀)~</a>
 ```
 <!-- endtab -->
 
