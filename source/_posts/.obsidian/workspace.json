@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "简爱中的女性意识.md"
+                    "file": "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "简爱中的女性意识.md",
+                "file": "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,14 +97,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "0891ab735e61a6b9",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       },
@@ -145,27 +137,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "028097bdcbc3d1ed",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "0a30aa876374ff55",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
         ]
       },
@@ -201,11 +172,12 @@
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
+    "谷歌娘金句收集.md",
+    "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
+    "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
     "拯救流量爆炸的vercel——使用cloudflare worker做负载均衡.md",
     "hello-world.md",
     "简爱中的女性意识.md",
-    "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
-    "谷歌娘金句收集.md",
     "Next魔改记录.md",
     "未命名.canvas",
     "用量爆炸.md",
