@@ -1,7 +1,7 @@
 ---
-title: 这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next
+title: 这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next
 tags:
-  - Diffsinger
+  - DiffSinger
   - 自动标注
   - AI
 cover: >-
@@ -19,7 +19,7 @@ DiffSinger是一种基于神经网络的歌声合成系统，它可以根据给�
 
 在开发时，我们借鉴了Fast-Phasr，也就是第一代自动标注工具的开发者Infinity-INF的设计思路，使用了AI来检测数据音频中的人声，不过初代工具所转换出来的.lab文件中的音素是散乱的，需要重新整合，这使得下一步的开发难上加难。
 
-第一代不同的是，我们使用了OpenAI的语音识别项目openai-whisper，它可以将输入的语音通过模型精准的转换为文字。当音频转换为文字后，困难便会迎刃而解，在此，我们使用pypinyin来处理转换出的文字，这样输出的就是符合Diffsinger数据集标准的标注了。
+第一代不同的是，我们使用了OpenAI的语音识别项目openai-whisper，它可以将输入的语音通过模型精准的转换为文字。当音频转换为文字后，困难便会迎刃而解，在此，我们使用pypinyin来处理转换出的文字，这样输出的就是符合DiffSinger数据集标准的标注了。
 
 ## 使用
 
