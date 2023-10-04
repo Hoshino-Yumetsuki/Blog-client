@@ -43,7 +43,7 @@ git clone https://github.com/SuSWhW/fast-phasr-next.git
 随后创建一个conda虚拟环境
 
 ```
-conda create -n fast-phasr-next python=3.11 -y
+conda create -n fast-phasr-next python=3.12 -y
 conda activate fast-phasr-next
 ```
 
