@@ -43,7 +43,7 @@ git clone https://github.com/SuSWhW/fast-phasr-next.git
 随后创建一个conda虚拟环境
 
 ```
-conda create -n fast-phasr-next
+conda create -n fast-phasr-next python=3.11 -y
 conda activate fast-phasr-next
 ```
 
@@ -51,13 +51,13 @@ conda activate fast-phasr-next
 
 ```
 # cpu
-pip -r requirement.txt
+pip install -r requirement.txt
 
 # gpu
 conda install cudatoolkit -y
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-pip -r requirement.txt
+pip install -r requirement.txt
 ```
 
 在安装好依赖后就可以开始推理啦
