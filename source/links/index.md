@@ -20,8 +20,8 @@ type: "links"
 
 
 {% flink %}
-- class_name: <a href="https://github.com/Flink"></a>
-  class_desc:
+- class_name: <a href="https://github.com/Flink">朋友</a>
+  class_desc: 那些人，那些事
   link_list:
   - name: 昔颜
     link: https://blog.muzilix.cn/
@@ -32,6 +32,32 @@ type: "links"
     avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/flink/Tianli.webp
     descr: 自知之明是最可贵的知识！
 
+{% endflink %}
+
+{% flink %}
+- class_name: <a href="https://github.com/Flink">单向友（？链</a>
+  class_desc: 加不到友链但是很想加友链的大佬们
+  link_list:
+  - name: Akilar
+    link: https://akilar.top/
+    avatar: /img/20200924153652.png
+    descr: 期待您的光临！
+  - name: 张洪Heo
+    link: https://blog.zhheo.com/
+    avatar: /img/8DSTSS20990281646044689944.PNG
+    descr: 分享设计与科技生活
+  - name: 贰猹的小窝
+    link: https://noionion.top/
+    avatar: https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+    descr: 用这生命中的每一秒，给自己一个不后悔的未来
+  - name: Leonus
+    link: https://blog.leonus.cn/
+    avatar: https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+    descr: 进一寸有进一寸的欢喜。
+  - name: 安知鱼
+    link: https://blog.anheyu.com/
+    avatar: https://apis.yisous.xyz/api/randomAvatar
+    descr: 进一寸有进一寸的欢喜。
 {% endflink %}
 
 <!-- 一个友链例子 -->
