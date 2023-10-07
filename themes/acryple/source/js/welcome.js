@@ -18,7 +18,7 @@ if ('serviceWorker' in window.navigator && navigator.serviceWorker.controller) {
 }
 
 if (localStorage.getItem("popWelcomeWindow") != "0") {
-    if(document.referrer==undefined||document.referrer.indexOf("suswhw.top")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){
+    if(document.referrer==undefined||document.referrer.indexOf("anjiurine.top")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){
         Snackbar.show({
             pos: "top-right",
             showAction: false,

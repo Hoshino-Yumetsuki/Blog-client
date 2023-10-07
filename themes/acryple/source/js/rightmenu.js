@@ -195,7 +195,7 @@ function popupMenu() {
         if (el.tagName == 'A') {
             $('#menu-to').show()
             rmf.open = function () {
-                if(el.href.indexOf("http://")==-1&&el.href.indexOf("https://")==-1||el.href.indexOf("suswhw.top")!=-1){
+                if(el.href.indexOf("http://")==-1&&el.href.indexOf("https://")==-1||el.href.indexOf("anjiurine.top")!=-1){
                     pjax.loadUrl(el.href)
                 }
                 else{

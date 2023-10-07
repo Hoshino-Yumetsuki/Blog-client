@@ -10,7 +10,7 @@ type: "links"
 </div>
 <div id="random-post"></div>
 
-<link rel="stylesheet" type="text/css" href="https://jsdelivrcdn.suswhw.top/gh/zhheo/JS-Heo@main/moments/random-friends-post.css">
+<link rel="stylesheet" type="text/css" href="https://jsdelivrcdn.anjiurine.top/gh/zhheo/JS-Heo@main/moments/random-friends-post.css">
 
 
 
@@ -29,7 +29,7 @@ type: "links"
     descr: 期待您的光临！
   - name: Tianli
     link: https://tianli-blog.club/
-    avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/flink/Tianli.webp
+    avatar: https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/flink/Tianli.webp
     descr: 自知之明是最可贵的知识！
 
 {% endflink %}
@@ -92,8 +92,8 @@ type: "links"
 <!-- tab Butterfly & MengD -->
 ```yaml
 - name: 梦溯·镜影
-  link: https://suswhw.top/
-  avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
+  link: https://anjiurine.top/
+  avatar: https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/avatar.png
   descr: 今日事，今日毕
   siteshot: https://vercel.yisous.xyz/img/siteshot.png
 ```
@@ -104,8 +104,8 @@ type: "links"
 - {
   title: '梦溯·镜影',
   intro: '今日事，今日毕',
-  link: 'https://suswhw.top/',
-  image: 'https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png'
+  link: 'https://anjiurine.top/',
+  image: 'https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/avatar.png'
 }
 ```
 <!-- endtab -->
@@ -113,8 +113,8 @@ type: "links"
 <!-- tab volantis -->
 ```yaml
 - title: 梦溯·镜影
-  avatar: https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png
-  url: https://suswhw.top/
+  avatar: https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/avatar.png
+  url: https://anjiurine.top/
   screenshot: https://yisous.xyz/img/siteshot.png
   keywords: 个人博客
   description: 今日事，今日毕
@@ -123,7 +123,7 @@ type: "links"
 
 <!-- tab html -->
 ```html
-<a href="https://suswhw.top/"><img src="https://jsdelivrcdn.suswhw.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">梦溯·镜影</a>
+<a href="https://anjiurine.top/"><img src="https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/avatar.png" alt="avatar">梦溯·镜影</a>
 ```
 <!-- endtab -->
 
@@ -144,7 +144,7 @@ type: "links"
 <h1>如何申请友链？</h1>
 
 点下面的按钮！
-<script type="text/javascript" src="https://jsdelivrcdn.suswhw.top/npm/jquery@latest/dist/jquery.min.js"></script>
+<script type="text/javascript" src="https://jsdelivrcdn.anjiurine.top/npm/jquery@latest/dist/jquery.min.js"></script>
 <script src = "/js/randomFriend.js"></script>
 
 <a href="javascript:void(0)" onclick="addflink()">快速添加友链</a>

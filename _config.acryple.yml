@@ -12,7 +12,7 @@ menu:
   本站 || fa fa-sitemap:
     友链: /links/ || fas fa-link
     分站: /othersite/ || fa fa-tasks
-    BingAI: https://bingai.suswhw.top/ || fa fa-comment
+    BingAI: https://bingai.anjiurine.top/ || fa fa-comment
   我的 || fa-fw fas fa-address-card:
     追番: /bangumis/ || fa-fw fas fa fa-film
     书单: /booklist/ || fa fa-book
@@ -20,9 +20,9 @@ menu:
     大饼: /bigpie/ || fas fa-cheese
   线路 || fas fa-link:
     Github: https://suswhw.github.io/
-    Cloudflare: https://cf.suswhw.top/
-    Vercel: https://suswhw.top/
-    Vercel2: https://vercel.suswhw.top
+    Cloudflare: https://cf.anjiurine.top/
+    Vercel: https://anjiurine.top/
+    Vercel2: https://vercel.anjiurine.top
 
 
 # Code Blocks (代碼相關)
@@ -151,7 +151,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: https://pixiv-img.suswhw.top/img-original/img/2022/04/27/09/50/10/97911234_p0.jpg
+  background: https://pixiv-img.anjiurine.top/img-original/img/2022/04/27/09/50/10/97911234_p0.jpg
 
 post_meta:
   page: # Home Page
@@ -358,7 +358,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.suswhw.top/
+  envId: https://twikoo.anjiurine.top/
   region:
   visitor: true
   option:
@@ -884,10 +884,10 @@ inject:
   - <style id="yjjs"></style>
   - <style id="themeColor"></style>
   - <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC">
-  - <link rel="stylesheet" href="https://jsdelivrcdn.suswhw.top/gh/Zfour/Butterfly-card-history/baiduhistory/css/main.css">
+  - <link rel="stylesheet" href="https://jsdelivrcdn.anjiurine.top/gh/Zfour/Butterfly-card-history/baiduhistory/css/main.css">
   - <link rel="stylesheet" href="/css/commentBarrage.css">
   - <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC">
-  - <link rel="stylesheet" type="text/css" href="https://jsdelivrcdn.suswhw.top/npm/node-snackbar@latest/dist/snackbar.min.css" />
+  - <link rel="stylesheet" type="text/css" href="https://jsdelivrcdn.anjiurine.top/npm/node-snackbar@latest/dist/snackbar.min.css" />
   - <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
   - '<script>LA.init({id: "JnlSnWLD7XChjrlx",ck: "JnlSnWLD7XChjrlx"})</script>'
   - <script src="https://sdk.51.la/perf/js-sdk-perf.min.js" crossorigin="anonymous"></script>
@@ -895,7 +895,7 @@ inject:
   - <script src="/swReg.js"></script>
   - <span id="fps"></span>
   - <style id="grays"></style>
-  - <script src="https://jsdelivrcdn.suswhw.top/npm/prefetch-page"></script>
+  - <script src="https://jsdelivrcdn.anjiurine.top/npm/prefetch-page"></script>
   - "<script>addEventListener('DOMContentLoaded', function () {prefetch({ threshold: 25, delay: 3000, limit: 10 ,customs: ['search.xml']})});requestIdleCallback(function () {prefetch({ threshold: 25, delay: 3000, limit: 10,customs: ['search.xml']})})</script>"
   bottom:
   - <script type="text/javascript" src="/js/fixbugpjax.js"></script>
@@ -903,13 +903,13 @@ inject:
   - <div class="aplayer no-destroy" data-id="7803928554" data-server="netease" data-type="playlist" data-listFolded="false" data-preload="metadata" data-theme="var(--lyx-theme)" data-fixed="true" data-autoplay="false" data-volume=0.1 style="z-index:514"> </div>
   - <script type="text/javascript" src="/js/aplayersave.js"></script>
   - <script type="text/javascript" src="/js/noie.js"></script>
-  - <script src="https://jsdelivrcdn.suswhw.top/npm/leancloud-storage@4.13.1/dist/av-min.js"></script>
-  - <script src="https://jsdelivrcdn.suswhw.top/gh/nextapps-de/winbox/dist/winbox.bundle.min.js"></script>
-  - <script src="https://jsdelivrcdn.suswhw.top/npm/sweetalert2@8"></script>
+  - <script src="https://jsdelivrcdn.anjiurine.top/npm/leancloud-storage@4.13.1/dist/av-min.js"></script>
+  - <script src="https://jsdelivrcdn.anjiurine.top/gh/nextapps-de/winbox/dist/winbox.bundle.min.js"></script>
+  - <script src="https://jsdelivrcdn.anjiurine.top/npm/sweetalert2@8"></script>
   - <script type="text/javascript" data-pjax="" src="/js/rightmenu.js"></script>
   - <script type="text/javascript" src="/js/copy.js"></script>
   - <script type="text/javascript" src="/js/welcome.js"></script>
-  - <script type="text/javascript" src="https://jsdelivrcdn.suswhw.top/npm/jquery@latest/dist/jquery.min.js"></script>
+  - <script type="text/javascript" src="https://jsdelivrcdn.anjiurine.top/npm/jquery@latest/dist/jquery.min.js"></script>
   - <script type="text/javascript" src="/js/resizeTop.js"></script>
   - <script type="text/javascript" src="/js/languages.js"></script>
   - <script type="text/javascript" src="/js/browser.js"></script>
@@ -938,7 +938,7 @@ inject:
   - <script type="text/javascript" src="/js/commentsCount.js"></script>
   - <script type="text/javascript" src="/js/latest.js"></script>
   - <script data-pjax="" defer src="/js/fixed_card_widget.js"></script>
-  - <script type="text/javascript" src="https://jsdelivrcdn.suswhw.top/npm/node-snackbar@latest/src/js/snackbar.min.js"></script>
+  - <script type="text/javascript" src="https://jsdelivrcdn.anjiurine.top/npm/node-snackbar@latest/src/js/snackbar.min.js"></script>
 # Don't modify the following settings unless you know how they work
 # 非必要請不要修改
 # 
@@ -961,7 +961,7 @@ CDN:
     # algolia_search_v4:
     # instantsearch_v4:
     # pjax:
-    # gitalk: https://jsdelivrcdn.suswhw.top/npm/gitalk@latest/dist/gitalk.min.js
+    # gitalk: https://jsdelivrcdn.anjiurine.top/npm/gitalk@latest/dist/gitalk.min.js
     # gitalk_css:
     # blueimp_md5:
     # valine:
@@ -1037,12 +1037,12 @@ tag_plugins:
   link:
     placeholder: /img/link.png #link_card标签默认的图标图片
   CDN:
-    anima: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖
-    jquery: https://jsdelivrcdn.suswhw.top/npm/jquery@latest/dist/jquery.min.js #issues标签依赖
-    issues: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖
+    anima: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/font-awesome-animation.min.css #动画标签anima的依赖
+    jquery: https://jsdelivrcdn.anjiurine.top/npm/jquery@latest/dist/jquery.min.js #issues标签依赖
+    issues: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/issues.js #issues标签依赖
     iconfont: //at.alicdn.com/t/font_2032782_8d5kxvn09md.js #参看https://akilar.top/posts/d2ebecef/
-    carousel: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js
-    tag_plugins_css: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css
+    carousel: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/assets/carousel-touch.js
+    tag_plugins_css: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-tag-plugins-plus@latest/lib/tag_plugins.css
 #侧栏悬浮卡片控制按钮
 #https://akilar.top/posts/451ac5f8/
 fixed_card_widget:
@@ -1135,7 +1135,7 @@ gitcalendar:
 # color: "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']" #橘黄色调
 #  color: "['#ebedf0', '#f0fff4', '#dcffe4', '#bef5cb', '#85e89d', '#34d058', '#28a745', '#22863a', '#176f2c', '#165c26', '#144620']" #翠绿色调
   color: "['#ebedf0', '#f1f8ff', '#dbedff', '#c8e1ff', '#79b8ff', '#2188ff', '#0366d6', '#005cc5', '#044289', '#032f62', '#05264c']" #天青色调
-  apiurl: gcapi.suswhw.top
+  apiurl: gcapi.anjiurine.top
   # api: https://python-gitee-calendar-api.vercel.app/api
-  # calendar_js: https://jsdelivrcdn.suswhw.top/npm/reverse-stu-allversions@1.0.1/butterfly/diy/hexo_githubcalendar.js
+  # calendar_js: https://jsdelivrcdn.anjiurine.top/npm/reverse-stu-allversions@1.0.1/butterfly/diy/hexo_githubcalendar.js
   # plus_style: ""

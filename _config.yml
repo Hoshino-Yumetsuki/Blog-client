@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 # 改动的地方
-url: https://suswhw.top/
+url: https://anjiurine.top/
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: posts/:abbrlink/
@@ -230,9 +230,9 @@ cinema: # 追剧设置
 #       iteration: 1 #选填项，动画重复的次数
 #     - class: card-widget
 #       style: animate__zoomIn
-animate_css: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-wowjs/lib/animate.min.css
-wow_js: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-wowjs/lib/wow.min.js
-wow_init_js: https://jsdelivrcdn.suswhw.top/npm/hexo-butterfly-wowjs/lib/wow_init.js
+animate_css: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-wowjs/lib/animate.min.css
+wow_js: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-wowjs/lib/wow.min.js
+wow_init_js: https://jsdelivrcdn.anjiurine.top/npm/hexo-butterfly-wowjs/lib/wow_init.js
 random: true
 
 # Markdown config
