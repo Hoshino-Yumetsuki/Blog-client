@@ -19,10 +19,10 @@ menu:
     关于我: /about/ || fa fa-info-circle
     大饼: /bigpie/ || fas fa-cheese
   线路 || fas fa-link:
+    主站: https://anjiurine.top/
+    Vercel: https://vercel.anjiurine.top
     Github: https://github.anjiurine.top/
     Cloudflare: https://cf.anjiurine.top/
-    Vercel: https://anjiurine.top/
-    Vercel2: https://vercel.anjiurine.top
 
 
 # Code Blocks (代碼相關)
