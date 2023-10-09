@@ -122,7 +122,7 @@ search:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repo: git@github.com:SuSWhW/suswhw.github.io.git
+  repo: git@github.com:Anjiurine/Anjiurine.github.io.git
   branch: main
   ignore_hidden: false
 
