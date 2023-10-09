@@ -12,7 +12,6 @@ menu:
   本站 || fa fa-sitemap:
     友链: /links/ || fas fa-link
     分站: /othersite/ || fa fa-tasks
-    BingAI: https://bingai.anjiurine.top/ || fa fa-comment
   我的 || fa-fw fas fa-address-card:
     追番: /bangumis/ || fa-fw fas fa fa-film
     书单: /booklist/ || fa fa-book
