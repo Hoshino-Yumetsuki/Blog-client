@@ -38,7 +38,7 @@ DiffSinger是一种基于神经网络的歌声合成系统，它可以根据给�
 使用项目先clone仓库到任意文件夹
 
 ```
-git clone https://github.com/SuSWhW/fast-phasr-next.git
+git clone https://github.com/Anjiurine/fast-phasr-next.git
 ```
 随后创建一个conda虚拟环境
 

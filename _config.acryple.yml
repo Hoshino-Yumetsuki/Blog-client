@@ -46,7 +46,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/SuSWhW || Github
+  fab fa-github: https://github.com/Anjiurine || Github
   # fas fa-envelope: mailto:lyx2010official.outlook.com || Email
   # iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
   # iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
@@ -661,7 +661,7 @@ aside:
       enable: false
       icon: fab fa-github
       text: 看看博主的Github
-      link: https://github.com/SuSWhW
+      link: https://github.com/Anjiurine
   card_announcement:
     enable: true
     content: 本网站的Twikoo评论系统使用Cravatar头像系统，请自行绑定邮箱配置
@@ -1122,7 +1122,7 @@ fixed_card_widget:
 gitcalendar:
   enable: true
   simplemode: false
-  user: SuSWhW
+  user: Anjiurine
   # layout:
   #   type: class
   #   name: gc
