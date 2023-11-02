@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md"
+                    "file": "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md"
                   }
                 }
               }
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md",
+                "file": "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Worker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fbcfaf2dcf52f129",
@@ -201,7 +202,8 @@
   },
   "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "拯救流量爆炸的vercel——使用cloudflare worker做负载均衡.md",
+    "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md",
+    "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md",
     "谷歌娘金句收集.md",
     "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
@@ -231,7 +233,6 @@
     "《魔女之吻乃百合之味》用小说，带你进入幻想的世界.md",
     "在国内使用体验比答辩还答辩的Kindle海外版app.md",
     "魔女之吻乃百合之味：从幻想中映射现实.md",
-    "Vanilla-OS——新世代Ubuntu发行版.md",
-    "我那些日子里在Hexo中踩的坑.md"
+    "Vanilla-OS——新世代Ubuntu发行版.md"
   ]
 }
