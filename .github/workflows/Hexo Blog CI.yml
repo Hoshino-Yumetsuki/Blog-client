@@ -19,11 +19,11 @@ jobs:
     # check it to your workflow can access it
     # from: https://github.com/actions/checkout
     - name: Checkout Repository master branch
-      uses: actions/checkout@master
+      uses: actions/checkout@main
 
     # from: https://github.com/actions/setup-node
     - name: Setup Node.js latest
-      uses: actions/setup-node@master
+      uses: actions/setup-node@main
       with:
         node-version: "latest"
 
