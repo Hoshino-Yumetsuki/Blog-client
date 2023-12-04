@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0"
   },
   "dependencies": {
     "butterfly-friend": "^3.2.0",
@@ -60,14 +60,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LYXOfficial/blog.git"
+    "url": "git+https://github.com/Anjiurine/Blog-client.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LYXOfficial/blog/issues"
+    "url": "https://github.com/Anjiurine/Blog-client/issues"
   },
-  "homepage": "https://github.com/LYXOfficial/blog#readme",
+  "homepage": "https://github.com/Anjiurine/Blog-client#readme",
   "description": "",
   "devDependencies": {
     "gulp-clean-css": "^4.3.0",

@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Worker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +200,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "13ddd6c331c083fc",
+  "active": "af24ff91f6b1729e",
   "lastOpenFiles": [
     "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md",
