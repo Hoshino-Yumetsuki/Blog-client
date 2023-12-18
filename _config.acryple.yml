@@ -358,7 +358,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.anjiurine.top/
+  envId: https://twikoo.anjiurine.top
   region:
   visitor: true
   option:
