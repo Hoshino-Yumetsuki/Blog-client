@@ -4,7 +4,7 @@ tags:
   - hello-world
 abbrlink: 4a17b156
 date: 2022-06-12 00:00:00
-cover: https://jsdelivrcdn-img.anjiurine.top/npm/q78kg-website-npm-cdn/38f758c3-6a4f-46bd-8b92-0a9a334fe63f.jpg
+cover: https://wicapi.anjiurine.top/?img_url=https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/38f758c3-6a4f-46bd-8b92-0a9a334fe63f.jpg
 categories: Hello World
 ---
 
