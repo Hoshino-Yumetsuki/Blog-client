@@ -8,7 +8,7 @@ tags:
   - Next
   - Butterfly
 abbrlink: 164ef646
-cover: https://wicapi.anjiurine.top/?img_url=https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/2761d84a-a699-423b-a03f-241235497d1d.jpg
+cover: https://wicapi.anjiurine.top/?img_url=https://jsd.anjiurine.top/npm/q78kg-website-npm-cdn/2761d84a-a699-423b-a03f-241235497d1d.jpg
 categories: Hexo
 ---
 

@@ -37,7 +37,7 @@ if (document.getElementById('history-container')) {
     }
 
     var getMonthDate = "S" + getMonth + getDate;
-    return ["https://jsdelivrcdn.anjiurine.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json", getMonthDate];
+    return ["https://jsd.anjiurine.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json", getMonthDate];
   };
 
   var history_data = history_get_data();

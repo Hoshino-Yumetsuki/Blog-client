@@ -9,7 +9,7 @@ tags:
   - 负载均衡
   - 谷歌翻译
   - Workers
-cover: https://wicapi.anjiurine.top/?img_url=https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/MXP1xJAnYDlLGWT.jpg
+cover: https://wicapi.anjiurine.top/?img_url=https://jsd.anjiurine.top/npm/q78kg-website-npm-cdn/MXP1xJAnYDlLGWT.jpg
 abbrlink: 6f3c565b
 date: 2023-09-17 00:00:00
 swiper_index: 3
@@ -18,7 +18,7 @@ swiper_index: 3
 
 这两天，把我的某个网站的评论系统换成了twikoo，过了几天一看，因为网站访问量比较高（日2k+），vercel的云函数使用量直接爆炸
 
-![](https://wicapi.anjiurine.top/?img_url=https://jsdelivrcdn.anjiurine.top/npm/q78kg-website-npm-cdn/appendix/6f3c565b/1.png)
+![](https://wicapi.anjiurine.top/?img_url=https://jsd.anjiurine.top/npm/q78kg-website-npm-cdn/appendix/6f3c565b/1.png)
 我这一想，嘶~这到时候vercel给我封了咋整。随即，我就开始查找相关负载均衡的资料。因为我之前完全没有做过这方面的功课，所以光是查资料就用了半天。瞎找半天，发现结果cloudflare支持基于dns的负载均衡方案，但是我定睛一看，只有A记录和AAAA记录支持，各种云函数平台基本上都是cname的，这可难办啊。
 
 再看Cloudflare的动态负载均衡方案，5刀，死贵，当即放弃。

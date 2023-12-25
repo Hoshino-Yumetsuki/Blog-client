@@ -33,7 +33,7 @@ if(document.getElementById('history-container')){
             getDate = String(getDate);
         }
         var getMonthDate = "S" + getMonth + getDate;
-        return ["https://jsdelivrcdn.anjiurine.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json",getMonthDate]
+        return ["https://jsd.anjiurine.top/gh/Zfour/Butterfly-card-history@latest/baiduhistory/json/" + getMonth + ".json",getMonthDate]
     }
     var history_data = history_get_data()
     fetch(history_data[0]).then(data=>data.json()).then(data=>{
