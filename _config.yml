@@ -151,8 +151,8 @@ swiper:
   default_descr: 
   swiper_css: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css
   swiper_js: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js
-  custom_css: https://npm.elemecdn.com/hexo-butterfly-swiper-lyx/lib/swiperstyle.css
-  custom_js: https://npm.elemecdn.com/hexo-butterfly-swiper-lyx/lib/swiper_init.js
+  custom_css: https://jsd.anjiurine.top/npm/hexo-butterfly-swiper-lyx/lib/swiperstyle.css
+  custom_js: https://jsd.anjiurine.top/npm/hexo-butterfly-swiper-lyx/lib/swiper_init.js
 butterfly_article_double_row:
   enable: false
 nofollow:

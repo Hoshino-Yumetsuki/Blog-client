@@ -45,7 +45,7 @@ hexo.extend.filter.register('before_generate', () => {
     valine: 'https://jsd.anjiurine.top/npm/valine/dist/Valine.min.js',
     disqusjs: 'https://jsd.anjiurine.top/npm/disqusjs@1/dist/disqus.js',
     disqusjs_css: 'https://jsd.anjiurine.top/npm/disqusjs@1/dist/disqusjs.css',
-    twikoo: 'https://jsd.anjiurine.top/npm/twikoo@1.6.7/dist/twikoo.all.min.js',
+    twikoo: 'https://jsd.anjiurine.top/npm/twikoo/dist/twikoo.all.min.js',
     waline_js: 'https://jsd.anjiurine.top/npm/@waline/client/dist/waline.js',
     waline_css: 'https://jsd.anjiurine.top/npm/@waline/client/dist/waline.css',
     sharejs: 'https://jsd.anjiurine.top/gh/overtrue/share.js@master/dist/js/social-share.min.js',

@@ -86,7 +86,7 @@ const fullpath = (path) => {
 const generate_blog_urls = (packagename, blogversion, path) => {
     const npmmirror = [
         // `https://unpkg.zhimg.com/${packagename}@${blogversion}`,
-        // `https://npm.elemecdn.com/${packagename}@${blogversion}`,
+        // `https://jsd.anjiurine.top/npm/${packagename}@${blogversion}`,
         // `https://cdn1.tianli0.top/npm/${packagename}@${blogversion}`,
         // `https://cdn.afdelivr.top/npm/${packagename}@${blogversion}`,
         `https://ariasakablog.s3.ladydaily.com`
