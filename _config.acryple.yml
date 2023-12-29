@@ -869,8 +869,8 @@ css_prefix: true
 # # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/mainColor/heoMainColor.css">
-  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo@1.0.11/404/404.css">
+  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo/mainColor/heoMainColor.css">
+  - <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/js-heo/404/404.css">
   - <script async data-pjax src="/js/jikewater.js"></script>
   - <script async data-pjax src="/js/jike.js"></script>
   - <link rel="stylesheet" type="text/css" href="/css/essay.css">
