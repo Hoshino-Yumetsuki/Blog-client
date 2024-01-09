@@ -21,8 +21,19 @@
                     "file": "2023年终总结.md"
                   }
                 }
+              },
+              {
+                "id": "80f648f566610bcb",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.5.3"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "207dfb1d3c1d90ce",
@@ -97,6 +108,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ad75fab5867f8632",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -137,6 +156,29 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "3d7177c47a8ce4df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1460f46f29ed6bd5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       },
@@ -161,7 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -170,7 +212,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9133b7b03bfbcc6",
+  "active": "80f648f566610bcb",
   "lastOpenFiles": [
     "谷歌娘金句收集.md",
     "2023年终总结.md",
