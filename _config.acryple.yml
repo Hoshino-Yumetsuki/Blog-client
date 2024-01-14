@@ -13,6 +13,7 @@ menu:
     友链: /links/ || fas fa-link
     朋友圈: /fcircle/ || fab fa-galactic-republic
     分站: /othersite/ || fa fa-tasks
+  工具 || fa fa-briefcase:
     Pixiv镜像站: https://pixiv.anjiurine.top/ || fa fa-book
     公共API: https://api.anjiurine.top/ || fa fa-cube
   我的 || fa-fw fas fa-address-card:
