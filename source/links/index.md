@@ -31,6 +31,10 @@ type: "links"
     link: https://tianli-blog.club/
     avatar: https://jsd.anjiurine.top/npm/q78kg-website-npm-cdn/flink/Tianli.webp
     descr: 自知之明是最可贵的知识！
+  - name: EthanYep
+    link: https://blog.ethanyep.cn/link
+    avatar: https://avatars.githubusercontent.com/u/31272102?v=4
+    descr: EthanYep的博客
 
 {% endflink %}
 
