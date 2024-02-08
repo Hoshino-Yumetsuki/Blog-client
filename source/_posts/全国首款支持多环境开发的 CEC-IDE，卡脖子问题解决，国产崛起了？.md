@@ -108,4 +108,4 @@ IDE代表集成开发环境（Integrated Development Environment）。它是一�
 今天在上班路上看到直接给我当头一棒，我个人觉得如果做不到不要紧，既然吹出了牛，就应该接受被喷的准备。国产乌龙这种已经见的太多了，但是总有人能定期给我们展现出眼前一黑的全新高度。写这个文章也算是过了嘴瘾，真的是下头。
 
 ## 参考资料
-[“粤”上高地｜麒麟软件与数字广东携手推动广东数字政府建设](https://mp.weixin.qq.com/s/v_smby8ua1vmnxI8mOhq8w))
+[“粤”上高地｜麒麟软件与数字广东携手推动广东数字政府建设](https://mp.weixin.qq.com/s/v_smby8ua1vmnxI8mOhq8w)

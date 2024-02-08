@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "谷歌娘金句收集.md"
+                    "file": "2024，哪些服务器提供商的性价比高？.md"
                   }
                 }
               }
@@ -47,13 +47,13 @@
         "dimension": 75.67567567567568,
         "children": [
           {
-            "id": "13ddd6c331c083fc",
+            "id": "01def7ee19523d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "谷歌娘金句收集.md",
-                "mode": "preview",
+                "file": "2024，哪些服务器提供商的性价比高？.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -201,16 +201,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "13ddd6c331c083fc",
+  "active": "01def7ee19523d8c",
   "lastOpenFiles": [
-    "canvas/Fast-Phasr-Next.canvas",
     "谷歌娘金句收集.md",
-    "canvas",
-    "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
+    "2024，哪些服务器提供商的性价比高？.md",
     "2023年终总结.md",
+    "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
+    "简爱中的女性意识.md",
+    "canvas/Fast-Phasr-Next.canvas",
+    "canvas",
     "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md",
-    "简爱中的女性意识.md",
     "未命名 1.md",
     "这可能是首个Diffsinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "hello-world.md",
