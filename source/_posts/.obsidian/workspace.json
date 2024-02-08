@@ -97,6 +97,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "834b67e25e0e549b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -137,6 +145,29 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "074d1c29a3e1c515",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e5f41c0f17446f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ]
       },
@@ -170,12 +201,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "409f70a1f10d2468",
+  "active": "13ddd6c331c083fc",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "canvas/Fast-Phasr-Next.canvas",
+    "谷歌娘金句收集.md",
+    "canvas",
     "全国首款支持多环境开发的 CEC-IDE，卡脖子问题解决，国产崛起了？.md",
     "2023年终总结.md",
-    "谷歌娘金句收集.md",
     "这可能是首个DiffSinger数据集全自动标注工具——Fast-Phasr-Next.md",
     "拯救流量爆炸的vercel——使用Cloudflare Workers做负载均衡.md",
     "简爱中的女性意识.md",
