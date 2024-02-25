@@ -918,7 +918,6 @@ inject:
   - <script type="text/javascript" src="/js/smooth-scrolling.js"></script>
   - <script src="//cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
   - <script type="text/javascript" src="/js/sitetime.js"></script>
-  - <script type="text/javascript" src="/js/seo.js"></script>
   - <script data-pjax="" type="text/javascript" src="/js/heimu.js"></script>
   - <script data-pjax="" src="/js/bbtalklunbo.js"></script>
   - <script data-pjax="" src="/js/fps.js"></script>
@@ -927,7 +926,6 @@ inject:
   - <script src="/js/owo.js"></script>
   - <script src="/js/welcomeconsole.js"></script>
   - <script src="/js/hide.show.js"></script>
-  
   - <script src="https://f.zhheo.com/JS-Heo/bb/showbb_in_index.js" data-pjax=""="" defer=""></script>
   - <script data-pace-options='{ "restartOnRequestAfter":false,"eventLag":false}' src="https://cdn.bootcss.com/pace/1.0.2/pace.min.js"></script>
   - <script data-pjax="" src="/js/baiduhistory.js"></script>
