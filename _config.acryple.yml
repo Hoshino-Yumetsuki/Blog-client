@@ -153,7 +153,7 @@ error_img:
 error_404:
   enable: true
   subtitle: 'Page Not Found'
-  background: https://pixiv-img.anjiurine.top/img-original/img/2022/04/27/09/50/10/97911234_p0.jpg
+  background: https://pximg.anjiurine.top/img-original/img/2022/04/27/09/50/10/97911234_p0.jpg
 
 post_meta:
   page: # Home Page
