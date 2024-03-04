@@ -122,7 +122,7 @@ search:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
 - type: git
-  repo: git@github.com:Anjiurine/Anjiurine.github.io.git
+  repo: git@github.com:Hoshino-Yumetsuki/Hoshino-Yumetsuki.github.io.git
   branch: main
   ignore_hidden: false
 
@@ -148,7 +148,7 @@ swiper:
     type: class
     name: swiper-div
     index: 0
-  default_descr: 
+  default_descr:
   swiper_css: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css
   swiper_js: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js
   custom_css: https://jsd.anjiurine.top/npm/hexo-butterfly-swiper-lyx/lib/swiperstyle.css
