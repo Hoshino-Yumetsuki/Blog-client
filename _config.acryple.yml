@@ -49,7 +49,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/Anjiurine || Github
+  fab fa-github: https://github.com/Hoshino-Yumetsuki || Github
   # fas fa-envelope: mailto:lyx2010official.outlook.com || Email
   # iconfont icon-gitee: https://gitee.com/lyxofficial || Gitee
   # iconfont icon-csdn: https://blog.csdn.net/weixin_44101108 || CSDN
@@ -1123,7 +1123,7 @@ fixed_card_widget:
 gitcalendar:
   enable: true
   simplemode: false
-  user: Anjiurine
+  user: Hoshino-Yumetsuki
   # layout:
   #   type: class
   #   name: gc
