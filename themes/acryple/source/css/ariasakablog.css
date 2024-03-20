@@ -1,57 +1,57 @@
 @font-face{
     font-family: 'Fredoka';
     font-display: swap; 
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/Fredoka.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/Fredoka.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'Monaco';
     font-display: swap; 
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/MONACO.TTF') format("truetype");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/MONACO.TTF') format("truetype");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'HYTMR';
     font-display: swap;
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/HYTangMeiRen55W.woff2') format("woff2");/*/font/HYTangMeiRen55W.woff2*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/HYTangMeiRen55W.woff2') format("woff2");/*/font/HYTangMeiRen55W.woff2*/
 }
 @font-face{
     font-family: 'FZXJLJ';
     font-display: swap;
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/FZXiJinLJW.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/FZXiJinLJW.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'FZXS';
     font-display: swap;
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/FZXiangSu14.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/FZXiangSu14.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'HYPailou';
     font-display: swap; 
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/HanyiSentyPailouArch.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/HanyiSentyPailouArch.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'FZODZK';
     font-display: swap; 
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/FZShouJiOuDieZhengKai.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/FZShouJiOuDieZhengKai.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'Source Serif';
     font-display: swap; 
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/SourceHanSerifSC-Medium.otf') format("opentype");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/SourceHanSerifSC-Medium.otf') format("opentype");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'Source Sans';
     font-display: swap; /*https://ghproxy.com/https://raw.githubusercontent.com/LYXOfficial/LYXOfficial.github.io/master/font/HYTangMeiRen55W.woff2*/
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/SourceHanSansCN-Medium.otf') format("opentype");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/SourceHanSansCN-Medium.otf') format("opentype");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'ZhuZiAWan';
     font-display: swap; /*https://ghproxy.com/https://raw.githubusercontent.com/LYXOfficial/LYXOfficial.github.io/master/font/HYTangMeiRen55W.woff2*/
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/ZhuZiAWan.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/ZhuZiAWan.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 @font-face{
     font-family: 'HYPailou';
     font-display: swap; /*https://ghproxy.com/https://raw.githubusercontent.com/LYXOfficial/LYXOfficial.github.io/master/font/HYTangMeiRen55W.woff2*/
-    src: url('https://jsd.anjiurine.top/npm/fontcdn-ariasaka@1.0.0/HanyiSentyPailouArch.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
+    src: url('https://registry.npmmirror.com/fontcdn-ariasaka/1.0.0/files/HanyiSentyPailouArch.woff2') format("woff2");/*/font/HYTangMeiRen55W.ttf*/
 }
 /* @font-face{
     font-family: 'KyoukashoProL';
@@ -643,7 +643,7 @@ th{
 }
 /*
 hr{
-    background:url(https://jsd.anjiurine.top/npm/hassan-assets/img/Bilibili_Dividing_Line.png)!important;
+    background:url(https://registry.npmmirror.com/hassan-assets/latest/files/img/Bilibili_Dividing_Line.png)!important;
     height:130px;
     max-width: 100%;
     border:hidden!important;

@@ -5,7 +5,7 @@
       icon: https://image.anzhiy.cn/adminuploads/1/2022/09/25/63300647e1f10.png
     - name: Node
       color: "#333"
-      icon: https://jsd.anjiurine.top/npm/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+      icon: https://registry.npmmirror.com/anzhiyu-blog/2.1.1/files/img/svg/node-logo.svg
     - name: Python
       color: "#fff"
       icon: https://image.anzhiy.cn/adminuploads/1/2022/09/25/63300647dea51.png

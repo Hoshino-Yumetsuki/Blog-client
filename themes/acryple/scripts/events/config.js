@@ -19,11 +19,11 @@ hexo.extend.filter.register('before_generate', () => {
 
   const internalSrcCDN = {
     main_css: '/css/index.css',
-    main: `https://jsd.anjiurine.top/npm/hexo-theme-butterfly@${version}/source/js/main.min.js`,
-    utils: `https://jsd.anjiurine.top/npm/hexo-theme-butterfly@${version}/source/js/utils.min.js`,
-    translate: `https://jsd.anjiurine.top/npm/hexo-theme-butterfly@${version}/source/js/tw_cn.min.js`,
-    local_search: `https://jsd.anjiurine.top/npm/hexo-theme-butterfly@${version}/source/js/search/local-search.min.js`,
-    algolia_js: `https://jsd.anjiurine.top/npm/hexo-theme-butterfly@${version}/source/js/search/algolia.min.js`,
+    main: `https://registry.npmmirror.com/hexo-theme-butterfly/${version}/files/source/js/main.min.js`,
+    utils: `https://registry.npmmirror.com/hexo-theme-butterfly/${version}/files/source/js/utils.min.js`,
+    translate: `https://registry.npmmirror.com/hexo-theme-butterfly/${version}/files/source/js/tw_cn.min.js`,
+    local_search: `https://registry.npmmirror.com/hexo-theme-butterfly/${version}/files/source/js/search/local-search.min.js`,
+    algolia_js: `https://registry.npmmirror.com/hexo-theme-butterfly/${version}/files/source/js/search/algolia.min.js`,
   }
 
   const internalSrcLocal = {
@@ -36,16 +36,16 @@ hexo.extend.filter.register('before_generate', () => {
   }
 
   const thirdPartySrcCDN = {
-    algolia_search_v4: 'https://jsd.anjiurine.top/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js',
-    instantsearch_v4: 'https://jsd.anjiurine.top/npm/instantsearch.js@4/dist/instantsearch.production.min.js',
-    pjax: 'https://jsd.anjiurine.top/npm/pjax/pjax.min.js',
-    gitalk: 'https://jsd.anjiurine.top/npm/gitalk@latest/dist/gitalk.min.js',
-    gitalk_css: 'https://jsd.anjiurine.top/npm/gitalk/dist/gitalk.css',
-    blueimp_md5: 'https://jsd.anjiurine.top/npm/blueimp-md5/js/md5.min.js',
-    valine: 'https://jsd.anjiurine.top/npm/valine/dist/Valine.min.js',
-    disqusjs: 'https://jsd.anjiurine.top/npm/disqusjs@1/dist/disqus.js',
-    disqusjs_css: 'https://jsd.anjiurine.top/npm/disqusjs@1/dist/disqusjs.css',
-    twikoo: 'https://jsd.anjiurine.top/npm/twikoo/dist/twikoo.all.min.js',
+    algolia_search_v4: 'https://registry.npmmirror.com/algoliasearch/4/files/dist/algoliasearch-lite.umd.js',
+    instantsearch_v4: 'https://registry.npmmirror.com/instantsearch.js/4/files/dist/instantsearch.production.min.js',
+    pjax: 'https://registry.npmmirror.com/pjax/latest/files/pjax.min.js',
+    gitalk: 'https://registry.npmmirror.com/gitalk/latest/files/dist/gitalk.min.js',
+    gitalk_css: 'https://registry.npmmirror.com/gitalk/latest/files/dist/gitalk.css',
+    blueimp_md5: 'https://registry.npmmirror.com/blueimp-md5/latest/files/js/md5.min.js',
+    valine: 'https://registry.npmmirror.com/valine/latest/files/dist/Valine.min.js',
+    disqusjs: 'https://registry.npmmirror.com/disqusjs/1/files/dist/disqus.js',
+    disqusjs_css: 'https://registry.npmmirror.com/disqusjs/1/files/dist/disqusjs.css',
+    twikoo: 'https://registry.npmmirror.com/twikoo/latest/files/dist/twikoo.all.min.js',
     waline_js: 'https://jsd.anjiurine.top/npm/@waline/client/dist/waline.js',
     waline_css: 'https://jsd.anjiurine.top/npm/@waline/client/dist/waline.css',
     sharejs: 'https://jsd.anjiurine.top/gh/overtrue/share.js@master/dist/js/social-share.min.js',
@@ -62,9 +62,9 @@ hexo.extend.filter.register('before_generate', () => {
     fireworks: 'https://jsd.anjiurine.top/npm/butterfly-extsrc@1/dist/fireworks.min.js',
     click_heart: 'https://jsd.anjiurine.top/npm/butterfly-extsrc@1/dist/click-heart.min.js',
     ClickShowText: 'https://jsd.anjiurine.top/npm/butterfly-extsrc@1/dist/click-show-text.min.js',
-    lazyload: 'https://jsd.anjiurine.top/npm/vanilla-lazyload/dist/lazyload.iife.min.js',
-    instantpage: 'https://jsd.anjiurine.top/npm/instant.page@5/instantpage.min.js',
-    typed: 'https://jsd.anjiurine.top/npm/typed.js/lib/typed.min.js',
+    lazyload: 'https://registry.npmmirror.com/vanilla-lazyload/latest/files/dist/lazyload.iife.min.js',
+    instantpage: 'https://registry.npmmirror.com/instant.page/5/files/instantpage.min.js',
+    typed: 'https://registry.npmmirror.com/typed.js/latest/files/dist/typed.umd.js',
     pangu: 'https://jsd.anjiurine.top/npm/pangu@4/dist/browser/pangu.min.js',
     fancybox_css_v4: 'https://jsd.anjiurine.top/npm/@fancyapps/ui/dist/fancybox.css',
     fancybox_v4: 'https://jsd.anjiurine.top/npm/@fancyapps/ui/dist/fancybox.umd.js',

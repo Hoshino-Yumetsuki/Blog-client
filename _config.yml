@@ -151,8 +151,8 @@ swiper:
   default_descr:
   swiper_css: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css
   swiper_js: https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/js/swiper.min.js
-  custom_css: https://jsd.anjiurine.top/npm/hexo-butterfly-swiper-lyx/lib/swiperstyle.css
-  custom_js: https://jsd.anjiurine.top/npm/hexo-butterfly-swiper-lyx/lib/swiper_init.js
+  custom_css: https://registry.npmmirror.com/hexo-butterfly-swiper-lyx/latest/files/lib/swiperstyle.css
+  custom_js: https://registry.npmmirror.com/hexo-butterfly-swiper-lyx/latest/files/lib/swiper_init.js
 butterfly_article_double_row:
   enable: false
 nofollow:
@@ -230,9 +230,9 @@ cinema: # 追剧设置
 #       iteration: 1 #选填项，动画重复的次数
 #     - class: card-widget
 #       style: animate__zoomIn
-animate_css: https://jsd.anjiurine.top/npm/hexo-butterfly-wowjs/lib/animate.min.css
-wow_js: https://jsd.anjiurine.top/npm/hexo-butterfly-wowjs/lib/wow.min.js
-wow_init_js: https://jsd.anjiurine.top/npm/hexo-butterfly-wowjs/lib/wow_init.js
+animate_css: https://registry.npmmirror.com/hexo-butterfly-wowjs/latest/files/lib/animate.min.css
+wow_js: https://registry.npmmirror.com/hexo-butterfly-wowjs/latest/files/lib/wow.min.js
+wow_init_js: https://registry.npmmirror.com/hexo-butterfly-wowjs/latest/files/lib/wow_init.js
 random: true
 
 # Markdown config
