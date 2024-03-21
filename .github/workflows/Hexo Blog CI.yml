@@ -52,9 +52,3 @@ jobs:
         hexo bangumi -u
         hexo generate
         hexo deploy
-    - name: NPM Publish
-      run: |
-        cd ./public
-        npm publish
-      env:
-        NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN }}
