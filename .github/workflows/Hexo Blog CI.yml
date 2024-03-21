@@ -53,7 +53,7 @@ jobs:
         hexo generate
         hexo deploy
     - name: NPM Publish
-       run: |
+      run: |
          cd ./public
          npm publish
        env:
