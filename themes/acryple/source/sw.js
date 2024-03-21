@@ -179,7 +179,7 @@ const handle = async(req)=>{
     //从这里开始
     lxs=[]
     if(domain === "anjiurine.top"){//这里写你需要拦截的域名
-        var l=lfetch(generate_blog_urls('q78kgblog',await db.read('blog_version') || '1.0.0',fullpath(urlPath)))
+        var l=lfetch(generate_blog_urls('q78kgblog',await db.read('blog_version') || 'latest',fullpath(urlPath)))
         return l
         .then(res=>res.arrayBuffer())
         .then(buffer=>new Response(buffer,{headers:{"Content-Type":`${getFileType(fullpath(urlPath).split("/")[fullpath(urlPath).split("/").length-1].split("\\")[fullpath(urlPath).split("/")[fullpath(urlPath).split("/").length-1].split("\\").length-1])};charset=utf-8`}}));//重新定义header
