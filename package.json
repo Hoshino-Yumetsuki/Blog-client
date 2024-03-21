@@ -1,5 +1,5 @@
 {
-  "name": "q78kg-blog-client",
+  "name": "q78kg-blog",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -60,14 +60,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anjiurine/Blog-client.git"
+    "url": "git+https://github.com/Hoshino-Yumetsuki/Blog-client.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anjiurine/Blog-client/issues"
+    "url": "https://github.com/Hoshino-Yumetsuki/Blog-client/issues"
   },
-  "homepage": "https://github.com/Anjiurine/Blog-client#readme",
+  "homepage": "https://github.com/Hoshino-Yumetsuki/Blog-client#readme",
   "description": "",
   "devDependencies": {
     "gulp-clean-css": "^4.3.0",
