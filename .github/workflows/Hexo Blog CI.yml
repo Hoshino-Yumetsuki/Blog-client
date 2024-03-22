@@ -1,7 +1,5 @@
-# workflow name
 name: Hexo Blog CI
 
-# master branch on push, auto run
 on:
   push:
     branches:
@@ -16,12 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    # check it to your workflow can access it
-    # from: https://github.com/actions/checkout
     - name: Checkout Repository master branch
       uses: actions/checkout@main
 
-    # from: https://github.com/actions/setup-node
     - name: Setup Node.js latest
       uses: actions/setup-node@main
       with:
@@ -46,9 +41,19 @@ jobs:
       run: |
         git config --global user.name 'Hoshino-Yumetsuki'
         git config --global user.email 'hoshino-yumetsuki@outlook.com'
+
     - name: Deploy Hexo
       run: |
         hexo clean
         hexo bangumi -u
         hexo generate
         hexo deploy
+
+    - name: NPM Publish Pre Set
+        run: >
+          node ./prescripts/pkgpublish.js
+
+    - uses: JS-DevTools/npm-publish@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+          package: ./public/package.json
