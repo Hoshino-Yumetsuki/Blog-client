@@ -1312,7 +1312,7 @@ hr{
 .card-weather:hover{
     border: 1px solid var(--lyx-theme);
     box-shadow:0 0 3px var(--lyx-theme)!important;
-    
+
 }
 .wv-f-forecast-aqi-2,.wv-lt-refresh,.wv-f-forecast-aqi-1,.wv-f-forecast-aqi-3{
     display: none;
