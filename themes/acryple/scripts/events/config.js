@@ -71,7 +71,7 @@ hexo.extend.filter.register('before_generate', () => {
     medium_zoom: 'https://jsd.anjiurine.top/npm/medium-zoom/dist/medium-zoom.min.js',
     snackbar_css: 'https://jsd.anjiurine.top/npm/node-snackbar/dist/snackbar.min.css',
     snackbar: 'https://jsd.anjiurine.top/npm/node-snackbar/dist/snackbar.min.js',
-    fontawesomeV6: 'https://jsd.anjiurine.top/npm/@fortawesome/fontawesome-free@6/css/all.min.css',
+    fontawesomeV6: 'https://registry.npmmirror.com/@fortawesome/fontawesome-free/6/files/css/all.min.css',
     flickr_justified_gallery_js: 'https://jsd.anjiurine.top/npm/flickr-justified-gallery@2/dist/fjGallery.min.js',
     flickr_justified_gallery_css: 'https://jsd.anjiurine.top/npm/flickr-justified-gallery@2/dist/fjGallery.min.css',
     aplayer_css: 'https://jsd.anjiurine.top/npm/aplayer@1/dist/APlayer.min.css',
