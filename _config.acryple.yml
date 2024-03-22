@@ -664,7 +664,7 @@ aside:
       enable: false
       icon: fab fa-github
       text: 看看博主的Github
-      link: https://github.com/Anjiurine
+      link: https://github.com/Hoshino-yumetsuki
   card_announcement:
     enable: true
     content: 本网站的Twikoo评论系统使用Cravatar头像系统，请自行绑定邮箱配置
@@ -700,7 +700,7 @@ aside:
     commentsCount: true
   card_weather:
     enable: true
-    key: 170186298b184055bafbb4d30e4322a7
+    key: b32dea2584a642dfb35fd2b4fb1964be
 
 # busuanzi count for PV / UV in site
 # 訪問人數
