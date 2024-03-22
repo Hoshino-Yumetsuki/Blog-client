@@ -50,10 +50,10 @@ jobs:
         hexo deploy
 
     - name: NPM Publish Pre Set
-        run: >
-          node ./prescripts/pkgpublish.js
+      run: >
+        node ./prescripts/pkgpublish.js
 
     - uses: JS-DevTools/npm-publish@v1
-        with:
-          token: ${{ secrets.NPM_TOKEN }}
-          package: ./public/package.json
+      with:
+        token: ${{ secrets.NPM_TOKEN }}
+        package: ./public/package.json
