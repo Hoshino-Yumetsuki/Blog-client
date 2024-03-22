@@ -699,7 +699,7 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
     commentsCount: true
   card_weather:
-    enable: true
+    enable: false
     key: b32dea2584a642dfb35fd2b4fb1964be
 
 # busuanzi count for PV / UV in site
