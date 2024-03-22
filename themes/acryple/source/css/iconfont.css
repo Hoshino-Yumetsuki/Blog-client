@@ -1,8 +1,8 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 3498204 */
-  src: url('iconfont.woff2?t=1659311976990') format('woff2'),
-       url('iconfont.woff?t=1659311976990') format('woff'),
-       url('iconfont.ttf?t=1659311976990') format('truetype');
+  font-family: "iconfont";
+  src: url('https://registry.npmmirror.com/q78kgblog/latest/files/css/iconfont.woff2') format('woff2'),
+       url('https://registry.npmmirror.com/q78kgblog/latest/files/css/iconfont.woff') format('woff'),
+       url('https://registry.npmmirror.com/q78kgblog/latest/files/css/iconfont.ttf') format('truetype');
 }
 
 .iconfont {

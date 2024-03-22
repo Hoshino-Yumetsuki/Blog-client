@@ -51,7 +51,7 @@ jobs:
 
     - name: NPM Publish Pre Set
       run: >
-        node ./prescripts/pkgpublish.js
+        node ./prescripts/pkgpublish.mjs
 
     - uses: JS-DevTools/npm-publish@v1
       with:
