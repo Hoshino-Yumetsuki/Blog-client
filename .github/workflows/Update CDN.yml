@@ -41,7 +41,6 @@ jobs:
 
     - name: NPM Publish Pre Set
       run: |
-        rm -rf ./npm-cdn/q78kg-website-npm-cdn/package.json
         node ./prescripts/updatecdn.mjs
 
     - uses: JS-DevTools/npm-publish@v3
