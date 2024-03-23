@@ -1,4 +1,4 @@
-name: Hexo Blog CI
+name: Update CDN
 
 on:
   push:
@@ -20,12 +20,6 @@ jobs:
       with:
         node-version: "latest"
 
-    - name: Setup Hexo Dependencies
-      run: |
-        npm i hexo-cli -g
-        npm i yarn -g
-        yarn
-
     - name: Setup Deploy Private Key
       env:
         HEXO_DEPLOY_PRIVATE_KEY: ${{ secrets.HEXO_DEPLOY_PRIVATE_KEY }}
@@ -40,18 +34,17 @@ jobs:
         git config --global user.name 'Hoshino-Yumetsuki'
         git config --global user.email 'hoshino-yumetsuki@outlook.com'
 
-    - name: Deploy Hexo
+    - name: Pull Files
       run: |
-        hexo clean
-        hexo bangumi -u
-        hexo generate
-        hexo deploy
+        git lfs install
+        git clone https://huggingface.co/datasets/Q78KG/npm-cdn
 
     - name: NPM Publish Pre Set
       run: |
-        node ./prescripts/pkgpublish.mjs
+        rm -rf ./npm-cdn/q78kg-website-npm-cdn/package.json
+        node ./prescripts/updatecdn.mjs
 
     - uses: JS-DevTools/npm-publish@v3
       with:
         token: ${{ secrets.NPM_TOKEN }}
-        package: ./public/package.json
+        package: ./npm-cdn/q78kg-website-npm-cdn/package.json
