@@ -36,7 +36,6 @@ jobs:
 
     - name: Pull Files
       run: |
-        git lfs install
         git clone https://huggingface.co/datasets/Q78KG/npm-cdn
 
     - name: NPM Publish Pre Set
