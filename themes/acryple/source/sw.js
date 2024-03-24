@@ -100,7 +100,8 @@ const generate_blog_urls = (packagename, blogversion, path) => {
 const mirror = [
     // `https://registry.npmmirror.com/ariasakablog/latest`,
     // `https://registry.npmjs.org/ariasakablog/latest`,
-    // `https://mirrors.cloud.tencent.com/npm/ariasakablog/latest`
+    // `https://mirrors.cloud.tencent.com/npm/ariasakablog/latest`,
+    `https://registry.npmmirror.com/q78kgblog/latest`
 ]
 const get_newest_version = async (mirror) => {
 return lfetch(mirror, mirror[0])
@@ -146,7 +147,7 @@ setInterval(async() => {
     await set_newest_version(mirror) //定时更新,一分钟一次
 }, 60*1000);
 
-setTimeout(async() => { 
+setTimeout(async() => {
     await set_newest_version(mirror)//打开五秒后更新,避免堵塞
 },5000)
 function getFileType(fileName) {
