@@ -872,8 +872,6 @@ inject:
   head:
   - <link rel="stylesheet" type="text/css" href="https://registry.npmmirror.com/js-heo/latest/files/mainColor/heoMainColor.css">
   - <link rel="stylesheet" type="text/css" href="https://registry.npmmirror.com/js-heo/latest/files/404/404.css">
-  - <script async data-pjax src="/js/jikewater.js"></script>
-  - <script async data-pjax src="/js/jike.js"></script>
   - <link rel="stylesheet" type="text/css" href="/css/essay.css">
   - <link rel="stylesheet" type="text/css" href="/css/404page.css">
   - <script src="/live2d-widget/autoload.js"></script>
@@ -890,8 +888,6 @@ inject:
   - <link rel="stylesheet" href="/css/commentBarrage.css">
   - <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC">
   - <link rel="stylesheet" type="text/css" href="https://registry.npmmirror.com/node-snackbar/latest/files/dist/snackbar.min.css" />
-  - '<script>LA.init({id: "JnlSnWLD7XChjrlx",ck: "JnlSnWLD7XChjrlx"})</script>'
-  - <script>new LingQue.Monitor().init({id:"JnnW6bt2WtyehVan"});</script>
   - <script src="/swReg.js"></script>
   - <span id="fps"></span>
   - <style id="grays"></style>
