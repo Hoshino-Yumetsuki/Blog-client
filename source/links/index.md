@@ -40,12 +40,8 @@ type: "links"
     descr: 源码教程这里有
   - name: 呓语梦轩
     link: https://blog.awaae001.top
-    avatar: https://image.m-c.top/?/images/2024/01/13/Pqeh0v6VaK/ico.jpg
+    avatar: https://blog.awaae001.top/ico.webp
     descr: 用心享受生活
-  - name: 听风小屋
-    link: https://blog.hcwind.site/
-    avatar: https://pic.hcwind.site/2023/07/07d3bd094d9fc85bc19220208b5165
-    descr: 近水楼台先得月，向阳花木易为春
   - name: 青桔气球
     link: https://blog.qjqq.cn/
     avatar: https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar
@@ -79,7 +75,7 @@ type: "links"
     descr: 进一寸有进一寸的欢喜。
   - name: 安知鱼
     link: https://blog.anheyu.com/
-    avatar: https://apis.yisous.xyz/api/randomAvatar
+    avatar: https://upload-bbs.miyoushe.com/upload/2023/09/06/125766904/b0e53d669834c1e1f2758d46e8377342_267164146979017418.jpg
     descr: 进一寸有进一寸的欢喜。
     {% endflink %}
 
