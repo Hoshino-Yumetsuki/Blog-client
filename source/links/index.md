@@ -47,10 +47,10 @@ type: "links"
     avatar: https://pic.hcwind.site/2023/07/07d3bd094d9fc85bc19220208b5165
     descr: 近水楼台先得月，向阳花木易为春
   - name: 青桔气球
-  link: https://blog.qjqq.cn/
-  avatar: https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar
-  descr: 分享网络安全与科技生活
-  siteshot: https://avatar.qjqq.cn/1/647571edf20a9.webp!avatar
+    link: https://blog.qjqq.cn/
+    avatar: https://avatar.qjqq.cn/1/6503bb1b7fa1a.webp!avatar
+    descr: 分享网络安全与科技生活
+    siteshot: https://avatar.qjqq.cn/1/647571edf20a9.webp!avatar
 
 
 
